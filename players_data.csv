@@ -1,0 +1,907 @@
+name,club,club_rank,age,height,foot,position,nationality,league,league_rank,contract_expires,matches_played,goals,assists,is_international,international_caps,international_goals,trophies,minutes_played,minutes_per_goals,market_value
+Bernardo Silva,Man City,1,29,1.73,left,Attacking Midfield,Portugal,Premier League,1,2026,543,101,92,TRUE,93,12,22,38377,380,70000000
+Kevin De Bruyne,Man City,1,33,1.81,right,Attacking Midfield,Belgium,Premier League,1,2025,611,149,254,TRUE,105,28,31,46262,310,50000000
+Jérémy Doku,Man City,1,22,1.73,right,Left Winger,Belgium,Premier League,1,2028,176,24,28,TRUE,26,2,2,9970,415,65000000
+Jack Grealish,Man City,1,28,1.8,right,Left Winger,England,Premier League,1,2027,420,57,75,TRUE,36,2,7,29669,521,60000000
+Phil Foden,Man City,1,24,1.71,left,Right Winger,England,Premier League,1,2027,312,108,66,TRUE,41,4,19,20186,187,150000000
+Savinho,Man City,1,20,1.76,left,Right Winger,Brazil,Premier League,1,2029,95,15,14,TRUE,7,1,5,5100,340,50000000
+Oscar Bobb,Man City,1,21,1.75,left,Right Winger,Norway,Premier League,1,2029,140,33,35,TRUE,8,2,8,9869,299,25000000
+Erling Haaland,Man City,1,24,1.95,left,Centre-Forward,Norway,Premier League,1,2027,281,225,51,TRUE,33,31,26,19806,88,180000000
+Julián Álvarez,Man City,1,24,1.7,right,Centre-Forward,Argentina,Premier League,1,2028,225,90,49,TRUE,36,9,18,13930,155,90000000
+Martin Ødegaard,Arsenal,4,25,1.78,left,Attacking Midfield,Norway,Premier League,1,2028,369,66,67,TRUE,59,3,4,27738,420,110000000
+Kai Havertz,Arsenal,4,25,1.93,left,Attacking Midfield,Germany,Premier League,1,2028,405,120,54,TRUE,51,18,7,29725,248,70000000
+Emile Smith Rowe,Arsenal,4,24,1.82,right,Attacking Midfield,England,Premier League,1,2026,192,41,24,TRUE,3,1,5,11270,275,22000000
+Fábio Vieira,Arsenal,4,24,1.7,left,Attacking Midfield,Portugal,Premier League,1,2027,167,27,33,TRUE,25,14,5,8051,298,22000000
+Gabriel Martinelli,Arsenal,4,23,1.78,right,Left Winger,Brazil,Premier League,1,2027,192,47,26,TRUE,13,2,3,11838,252,70000000
+Leandro Trossard,Arsenal,4,29,1.72,right,Left Winger,Belgium,Premier League,1,2026,413,119,55,TRUE,37,9,3,28047,236,35000000
+Bukayo Saka,Arsenal,4,22,1.78,left,Right Winger,England,Premier League,1,2027,279,80,70,TRUE,40,12,3,20882,261,140000000
+Reiss Nelson,Arsenal,4,24,1.75,right,Right Winger,England,Premier League,1,2027,218,44,29,TRUE,12,6,4,11099,252,15000000
+Gabriel Jesus,Arsenal,4,27,1.75,right,Centre-Forward,Brazil,Premier League,1,2027,388,143,67,TRUE,64,19,16,24286,170,65000000
+Eddie Nketiah,Arsenal,4,25,1.75,right,Centre-Forward,England,Premier League,1,2027,247,89,19,TRUE,1,0,5,12016,135,30000000
+Cole Palmer,Chelsea,21,22,1.89,left,Attacking Midfield,England,Premier League,1,2030,150,73,36,TRUE,9,2,11,9881,135,80000000
+Christopher Nkunku,Chelsea,21,26,1.77,right,Attacking Midfield,France,Premier League,1,2029,308,98,66,TRUE,10,0,15,19898,203,65000000
+Omari Kellyman,Chelsea,21,18,1.91,left,Attacking Midfield,England,Premier League,1,2030,56,14,8,TRUE,0,0,0,2961,212,1000000
+Raheem Sterling,Chelsea,21,29,1.7,right,Left Winger,England,Premier League,1,2027,571,181,113,TRUE,82,20,13,41629,230,35000000
+Mykhaylo Mudryk,Chelsea,21,23,1.75,right,Left Winger,Ukraine,Premier League,1,2031,135,19,23,TRUE,23,2,3,7133,375,35000000
+Diego Moreira,Chelsea,21,19,1.79,left,Left Winger,Portugal,Premier League,1,2028,83,15,11,TRUE,4,0,2,4139,276,3000000
+Noni Madueke,Chelsea,21,22,1.82,left,Right Winger,England,Premier League,1,2030,171,47,30,TRUE,20,7,3,9179,195,28000000
+Ângelo,Chelsea,21,19,1.8,left,Right Winger,Brazil,Premier League,1,2029,154,5,14,TRUE,3,0,0,7302,1460,15000000
+Nicolas Jackson,Chelsea,21,23,1.88,right,Centre-Forward,Senegal,Premier League,1,2031,136,38,21,TRUE,14,0,0,8894,234,35000000
+Lukaku,Chelsea,21,31,1.91,left,Centre-Forward,Belgium,Premier League,1,2026,647,309,90,TRUE,119,85,14,47783,155,30000000
+Armando Broja,Chelsea,21,22,1.91,right,Centre-Forward,Albania,Premier League,1,2028,171,44,10,TRUE,23,5,1,8951,203,22000000
+Datro Fofana,Chelsea,21,21,1.8,right,Centre-Forward,Cote d'Ivoire,Premier League,1,2029,103,31,12,TRUE,3,0,2,5547,179,12000000
+Deivid Washington,Chelsea,21,19,1.87,right,Centre-Forward,Brazil,Premier League,1,2030,43,14,0,FALSE,0,0,0,2578,184,9000000
+Marc Guiu,Chelsea,21,18,1.87,right,Centre-Forward,Spain,Premier League,1,2029,32,10,4,TRUE,3,0,2,1370,137,7500000
+Fábio Carvalho,Liverpool,6,21,1.7,right,Attacking Midfield,Portugal,Premier League,1,2027,183,57,29,TRUE,4,2,3,12489,219,14000000
+Luis Díaz,Liverpool,6,27,1.8,right,Left Winger,Colombia,Premier League,1,2027,371,88,42,TRUE,55,14,14,24079,274,75000000
+Cody Gakpo,Liverpool,6,25,1.93,right,Left Winger,Netherlands,Premier League,1,2028,299,105,70,TRUE,30,13,7,19796,189,55000000
+Diogo Jota,Liverpool,6,27,1.78,right,Left Winger,Portugal,Premier League,1,2027,360,125,58,TRUE,42,14,5,23570,189,50000000
+Mohamed Salah,Liverpool,6,32,1.75,left,Right Winger,Egypt,Premier League,1,2025,600,288,141,TRUE,96,54,23,45423,158,55000000
+Ben Doak,Liverpool,6,18,1.73,right,Right Winger,Scotland,Premier League,1,2030,41,11,8,TRUE,7,2,2,2464,224,10000000
+Darwin Núñez,Liverpool,6,25,1.87,right,Centre-Forward,Uruguay,Premier League,1,2028,235,101,37,TRUE,29,13,7,14803,147,70000000
+Bruno Fernandes,Man Utd,33,29,1.79,right,Attacking Midfield,Portugal,Premier League,1,2026,534,167,134,TRUE,71,23,12,41658,249,70000000
+Mason Mount,Man Utd,33,25,1.81,right,Attacking Midfield,England,Premier League,1,2028,344,66,61,TRUE,36,5,7,24963,378,35000000
+Hannibal,Man Utd,33,21,1.83,right,Attacking Midfield,Tunisia,Premier League,1,2025,118,9,26,TRUE,27,0,0,7270,808,9000000
+Marcus Rashford,Man Utd,33,26,1.85,right,Left Winger,England,Premier League,1,2028,416,136,66,TRUE,60,17,11,27872,205,60000000
+Alejandro Garnacho,Man Utd,33,20,1.8,right,Left Winger,Argentina,Premier League,1,2028,140,38,20,TRUE,6,0,4,8097,213,45000000
+Jadon Sancho,Man Utd,33,24,1.8,right,Left Winger,England,Premier League,1,2026,284,89,84,TRUE,23,3,5,19716,222,30000000
+Antony,Man Utd,33,24,1.72,left,Right Winger,Brazil,Premier League,1,2027,216,41,33,TRUE,16,2,7,14679,358,25000000
+Amad Diallo,Man Utd,33,22,1.73,left,Right Winger,Cote d'Ivoire,Premier League,1,2025,180,64,34,TRUE,4,1,5,11446,179,18000000
+Facundo Pellistri,Man Utd,33,22,1.75,right,Right Winger,Uruguay,Premier League,1,2025,120,7,9,TRUE,26,2,1,6264,895,10000000
+Rasmus Højlund,Man Utd,33,21,1.91,left,Centre-Forward,Denmark,Premier League,1,2028,159,60,14,TRUE,18,7,3,9919,165,65000000
+Joshua Zirkzee,Man Utd,33,23,1.93,right,Centre-Forward,Netherlands,Premier League,1,2029,213,83,49,TRUE,2,0,10,13365,161,50000000
+James Maddison,Tottenham,37,27,1.75,right,Attacking Midfield,England,Premier League,1,2028,346,83,74,TRUE,7,0,2,24663,297,70000000
+Alfie Devine,Tottenham,37,20,1.82,right,Attacking Midfield,England,Premier League,1,2027,116,25,13,TRUE,13,2,1,8513,341,2200000
+Heung-min Son,Tottenham,37,32,1.84,right,Left Winger,"Korea, South",Premier League,1,2025,606,227,98,TRUE,127,48,13,42727,188,45000000
+Manor Solomon,Tottenham,37,25,1.7,right,Left Winger,Israel,Premier League,1,2028,209,35,17,TRUE,37,7,4,11481,328,13000000
+Dejan Kulusevski,Tottenham,37,24,1.86,left,Right Winger,Sweden,Premier League,1,2028,293,68,64,TRUE,39,3,3,20090,295,55000000
+Brennan Johnson,Tottenham,37,23,1.86,right,Right Winger,Wales,Premier League,1,2028,196,52,36,TRUE,30,3,0,15230,293,48000000
+Richarlison,Tottenham,37,27,1.84,right,Centre-Forward,Brazil,Premier League,1,2027,350,101,36,TRUE,48,20,3,25162,249,38000000
+Timo Werner,Tottenham,37,28,1.8,right,Centre-Forward,Germany,Premier League,1,2025,482,210,90,TRUE,57,24,9,33352,159,17000000
+Alejo Véliz,Tottenham,37,20,1.86,right,Centre-Forward,Argentina,Premier League,1,2029,79,21,2,TRUE,9,3,0,4568,218,9000000
+Joe White,Newcastle,25,21,1.86,left,Attacking Midfield,England,Premier League,1,2025,137,16,21,TRUE,3,0,0,9021,564,300000
+Anthony Gordon,Newcastle,25,23,1.82,right,Left Winger,England,Premier League,1,2026,213,44,29,TRUE,4,0,2,13420,305,60000000
+Harvey Barnes,Newcastle,25,26,1.82,right,Left Winger,England,Premier League,1,2028,325,83,57,TRUE,1,0,2,22198,267,35000000
+Fraser,Newcastle,25,30,1.63,right,Left Winger,Scotland,Premier League,1,2025,356,42,51,TRUE,25,4,1,21234,506,3000000
+Garang Kuol,Newcastle,25,19,1.75,right,Left Winger,Australia,Premier League,1,2026,48,9,5,TRUE,1,0,1,1647,183,600000
+Miguel Almirón,Newcastle,25,30,1.74,left,Right Winger,Paraguay,Premier League,1,2026,326,56,38,TRUE,58,7,2,23652,422,20000000
+Jacob Murphy,Newcastle,25,29,1.73,right,Right Winger,England,Premier League,1,2027,412,64,64,TRUE,6,1,0,24859,388,15000000
+Alexander Isak,Newcastle,25,24,1.92,right,Centre-Forward,Sweden,Premier League,1,2028,282,117,24,TRUE,46,11,4,18361,157,75000000
+Callum Wilson,Newcastle,25,32,1.8,right,Centre-Forward,England,Premier League,1,2025,370,140,46,TRUE,9,2,2,26941,192,13000000
+Jacob Ramsey,Aston Villa,35,23,1.8,right,Attacking Midfield,England,Premier League,1,2027,194,40,23,TRUE,16,4,1,12692,317,35000000
+Jaden Philogene,Aston Villa,35,22,1.81,right,Left Winger,England,Premier League,1,2029,130,40,14,TRUE,4,3,0,9036,226,15000000
+Morgan Rogers,Aston Villa,35,22,1.87,right,Left Winger,England,Premier League,1,2030,199,46,32,TRUE,2,2,2,12862,280,15000000
+Samuel Iling-Junior,Aston Villa,35,20,1.82,left,Left Winger,England,Premier League,1,2030,136,22,24,TRUE,5,2,1,7753,352,13000000
+Lewis Dobbin,Aston Villa,35,21,1.75,left,Left Winger,England,Premier League,1,2030,137,27,19,TRUE,2,0,0,7410,274,2500000
+Leon Bailey,Aston Villa,35,26,1.78,left,Right Winger,Jamaica,Premier League,1,2027,339,74,67,TRUE,30,5,0,21519,291,42000000
+Emiliano Buendía,Aston Villa,35,27,1.72,right,Right Winger,Argentina,Premier League,1,2026,315,50,65,TRUE,1,0,3,21228,425,22000000
+Ollie Watkins,Aston Villa,35,28,1.8,right,Centre-Forward,England,Premier League,1,2028,390,145,60,TRUE,15,4,1,31543,218,65000000
+Durán,Aston Villa,35,20,1.85,left,Centre-Forward,Colombia,Premier League,1,2028,126,25,10,TRUE,10,1,0,5552,222,20000000
+Cameron Archer,Aston Villa,35,22,1.75,right,Centre-Forward,England,Premier League,1,2027,169,49,17,TRUE,11,6,2,10596,216,13000000
+Julio Enciso,Brighton,88,20,1.73,right,Attacking Midfield,Paraguay,Premier League,1,2026,114,28,14,TRUE,17,1,2,6257,223,22000000
+Facundo Buonanotte,Brighton,88,19,1.74,left,Attacking Midfield,Argentina,Premier League,1,2027,84,9,4,TRUE,2,0,0,4565,507,18000000
+Moran,Brighton,88,20,1.77,right,Attacking Midfield,Ireland,Premier League,1,2027,124,34,31,TRUE,8,2,0,8348,246,3000000
+Peupion,Brighton,88,21,1.75,right,Attacking Midfield,Australia,Premier League,1,2025,87,22,14,TRUE,11,0,0,6365,289,100000
+Kaoru Mitoma,Brighton,88,27,1.78,right,Left Winger,Japan,Premier League,1,2027,163,53,38,TRUE,20,7,6,10571,199,45000000
+Osman,Brighton,88,19,1.79,right,Left Winger,Ghana,Premier League,1,2029,59,13,9,TRUE,2,0,0,3572,275,12000000
+Jeremy Sarmiento,Brighton,88,22,1.78,right,Left Winger,Ecuador,Premier League,1,2027,81,8,4,TRUE,21,2,0,2677,335,7000000
+Simon Adingra,Brighton,88,22,1.75,right,Right Winger,Cote d'Ivoire,Premier League,1,2026,148,46,29,TRUE,14,2,1,9379,204,30000000
+Solly March,Brighton,88,30,1.8,left,Right Winger,England,Premier League,1,2026,295,27,29,TRUE,3,1,0,18234,675,18000000
+Minteh,Brighton,88,20,1.8,left,Right Winger,The Gambia,Premier League,1,2029,61,17,13,TRUE,6,3,1,3754,221,16000000
+Sima,Brighton,88,23,1.88,right,Right Winger,Senegal,Premier League,1,2025,130,46,13,TRUE,7,0,3,8178,178,7500000
+Mazilu,Brighton,88,18,1.86,left,Right Winger,Romania,Premier League,1,2030,50,9,4,TRUE,0,0,1,2764,307,2500000
+Cozier-Duberry,Brighton,88,19,1.7,left,Right Winger,England,Premier League,1,2028,83,30,18,TRUE,8,3,0,6757,225,2000000
+Evan Ferguson,Brighton,88,19,1.88,right,Centre-Forward,Ireland,Premier League,1,2029,113,35,8,TRUE,12,3,0,6206,177,50000000
+João Pedro,Brighton,88,22,1.88,right,Centre-Forward,Brazil,Premier League,1,2028,185,54,14,TRUE,1,0,0,12380,229,45000000
+Deniz Undav,Brighton,88,28,1.79,right,Centre-Forward,Germany,Premier League,1,2026,296,142,63,TRUE,3,0,3,20736,146,25000000
+Danny Welbeck,Brighton,88,33,1.85,right,Centre-Forward,England,Premier League,1,2026,458,99,42,TRUE,42,16,11,27060,273,5000000
+Lucas Paquetá,West Ham,85,26,1.8,left,Attacking Midfield,Brazil,Premier League,1,2027,302,53,38,TRUE,50,11,3,21363,403,65000000
+Mohammed Kudus,West Ham,85,23,1.77,left,Attacking Midfield,Ghana,Premier League,1,2028,200,62,21,TRUE,34,11,3,12545,202,50000000
+George Earthy,West Ham U21,200,19,1.8,left,Attacking Midfield,England,Premier League 2,150,2026,114,42,29,TRUE,0,0,0,8216,196,1000000
+Maxwel Cornet,West Ham,85,27,1.79,left,Left Winger,Cote d'Ivoire,Premier League,1,2027,346,62,37,TRUE,31,6,1,17946,289,9000000
+Jarrod Bowen,West Ham,85,27,1.76,left,Right Winger,England,Premier League,1,2030,341,115,54,TRUE,10,0,1,26869,234,50000000
+Danny Ings,West Ham,85,32,1.77,right,Centre-Forward,England,Premier League,1,2025,402,124,39,TRUE,3,1,2,25931,209,8000000
+Michail Antonio,West Ham,85,34,1.8,right,Centre-Forward,Jamaica,Premier League,1,2024,545,130,81,TRUE,12,3,3,38339,295,4000000
+Callum Marshall,West Ham U21,200,19,1.72,left,Centre-Forward,Northern Ireland,Premier League 2,150,2027,77,52,13,TRUE,4,0,1,5140,99,2000000
+Eberechi Eze,Crystal Palace,38,26,1.78,right,Attacking Midfield,England,Premier League,1,2027,260,51,30,TRUE,7,0,0,18734,367,55000000
+Daichi Kamada,Crystal Palace,38,27,1.84,right,Attacking Midfield,Japan,Premier League,1,2026,335,74,55,TRUE,33,7,2,23619,319,18000000
+Matheus França,Crystal Palace,38,20,1.84,right,Attacking Midfield,Brazil,Premier League,1,2028,76,14,4,TRUE,2,0,2,2921,209,15000000
+Jesurun Rak-Sakyi,Crystal Palace,38,21,1.78,left,Right Winger,England,Premier League,1,2027,118,48,25,TRUE,5,1,1,8643,180,2000000
+Malcolm Ebiowei,Crystal Palace,38,20,1.85,left,Right Winger,England,Premier League,1,2027,63,11,5,TRUE,3,0,0,3196,291,1500000
+Jean-Philippe Mateta,Crystal Palace,38,27,1.92,right,Centre-Forward,France,Premier League,1,2026,262,102,14,TRUE,3,1,0,16392,161,20000000
+Odsonne Edouard,Crystal Palace,38,26,1.87,right,Centre-Forward,France,Premier League,1,2025,322,117,45,TRUE,14,17,16,19793,169,18000000
+Jordan Ayew,Crystal Palace,38,32,1.82,right,Centre-Forward,Ghana,Premier League,1,2025,525,85,59,TRUE,104,28,6,34067,401,4000000
+Yegor Yarmolyuk,Brentford,95,20,1.8,right,Attacking Midfield,Ukraine,Premier League,1,2028,52,1,0,TRUE,10,0,0,1427,1427,10000000
+Myles Peart-Harris,Brentford,95,21,1.87,right,Attacking Midfield,Jamaica,Premier League,1,2025,111,26,15,TRUE,0,0,1,7191,277,700000
+Yoane Wissa,Brentford,95,27,1.76,right,Left Winger,DR Congo,Premier League,1,2026,302,86,33,TRUE,27,5,0,18872,219,28000000
+Keane Lewis-Potter,Brentford,95,23,1.7,right,Left Winger,England,Premier League,1,2028,176,36,13,TRUE,4,1,1,10928,304,15000000
+Mikkel Damsgaard,Brentford,95,24,1.8,right,Left Winger,Denmark,Premier League,1,2027,213,19,28,TRUE,28,4,0,13109,690,10000000
+Bryan Mbeumo,Brentford,95,24,1.71,left,Right Winger,Cameroon,Premier League,1,2026,247,64,46,TRUE,16,4,0,17945,280,40000000
+Kevin Schade,Brentford,95,22,1.85,right,Right Winger,Germany,Premier League,1,2028,164,37,23,TRUE,3,0,1,9470,256,22000000
+Ivan Toney,Brentford,95,28,1.85,right,Centre-Forward,England,Premier League,1,2025,418,169,61,TRUE,6,1,5,29907,177,50000000
+Igor Thiago,Brentford,95,23,1.91,right,Centre-Forward,Brazil,Premier League,1,2029,178,63,21,FALSE,0,0,6,10349,164,25000000
+Chem Campbell,Wolves,139,21,1.8,right,Attacking Midfield,Wales,Premier League,1,2026,131,25,13,TRUE,5,0,0,8633,345,900000
+Guedes,Wolves,139,27,1.79,right,Left Winger,Portugal,Premier League,1,2027,373,69,70,TRUE,32,7,14,23236,337,15000000
+Chiquinho,Wolves,139,24,1.79,right,Left Winger,Portugal,Premier League,1,2026,127,25,18,TRUE,1,0,1,7593,304,3000000
+Pedro Neto,Wolves,139,24,1.72,left,Right Winger,Portugal,Premier League,1,2027,156,17,25,TRUE,10,1,2,8717,513,55000000
+Daniel Podence,Wolves,139,28,1.7,right,Right Winger,Portugal,Premier League,1,2025,358,57,59,TRUE,1,0,5,22796,400,13000000
+Pablo Sarabia,Wolves,139,32,1.74,left,Right Winger,Spain,Premier League,1,2025,539,121,94,TRUE,27,9,12,33885,280,10000000
+Matheus Cunha,Wolves,139,25,1.83,right,Centre-Forward,Brazil,Premier League,1,2027,235,55,38,TRUE,11,0,2,13457,245,45000000
+Jørgen Strand Larsen,Wolves,139,24,1.93,right,Centre-Forward,Norway,Premier League,1,2025,236,59,28,TRUE,14,3,0,14700,249,25000000
+Hee-chan Hwang,Wolves,139,28,1.77,right,Centre-Forward,"Korea, South",Premier League,1,2028,301,85,50,TRUE,66,14,8,17076,201,25000000
+Silva,Wolves,139,22,1.85,right,Centre-Forward,Portugal,Premier League,1,2026,184,38,18,TRUE,22,12,4,9574,252,11000000
+Sasa Kalajdzic,Wolves,139,27,2,right,Centre-Forward,Austria,Premier League,1,2027,152,55,31,TRUE,19,4,0,9468,172,5000000
+Nathan Fraser,Wolves,139,19,1.88,right,Centre-Forward,Ireland,Premier League,1,2028,74,24,5,TRUE,4,1,0,4862,203,1000000
+Leon Chiwome,Wolves U21,300,18,1.86,right,Centre-Forward,England,Premier League 2,150,2028,31,9,1,TRUE,2,1,0,1883,209,1000000
+Hamed Junior Traorè,Bournemouth,93,24,1.77,right,Attacking Midfield,Cote d'Ivoire,Premier League,1,2028,245,39,25,TRUE,10,2,1,15390,395,17000000
+Dango Ouattara,Bournemouth,93,22,1.77,left,Left Winger,Burkina Faso,Premier League,1,2028,100,10,13,TRUE,25,8,0,5500,550,20000000
+Luis Sinisterra,Bournemouth,93,25,1.72,right,Left Winger,Colombia,Premier League,1,2030,220,58,38,TRUE,16,4,0,13975,241,17000000
+Justin Kluivert,Bournemouth,93,25,1.72,right,Left Winger,Netherlands,Premier League,1,2028,285,64,51,TRUE,2,0,1,17460,273,14000000
+Jaidon Anthony,Bournemouth,93,24,1.83,right,Left Winger,England,Premier League,1,2027,137,15,12,FALSE,0,0,0,6891,459,6000000
+Antoine Semenyo,Bournemouth,93,24,1.85,right,Right Winger,Ghana,Premier League,1,2029,211,36,26,TRUE,21,2,0,11804,328,10000000
+David Brooks,Bournemouth,93,27,1.73,left,Right Winger,Wales,Premier League,1,2026,176,26,30,TRUE,30,4,2,9918,381,8000000
+Dominic Solanke,Bournemouth,93,26,1.86,right,Centre-Forward,England,Premier League,1,2027,320,123,39,TRUE,1,0,7,23361,190,40000000
+Enes Ünal,Bournemouth,93,27,1.87,right,Centre-Forward,Türkiye,Premier League,1,2028,350,95,30,TRUE,33,3,1,20245,213,18000000
+Jebbison,Bournemouth,93,21,1.9,right,Centre-Forward,Canada,Premier League,1,2028,66,18,2,TRUE,0,0,0,3231,180,1000000
+Morgan Gibbs-White,Nottm Forest,144,24,1.71,right,Attacking Midfield,England,Premier League,1,2027,228,29,35,TRUE,18,3,3,14616,504,40000000
+Callum Hudson-Odoi,Nottm Forest,144,23,1.78,right,Left Winger,England,Premier League,1,2026,243,56,42,TRUE,3,0,8,14685,262,18000000
+Alex Mighten,Nottm Forest,144,22,1.71,right,Left Winger,England,Premier League,1,2025,115,14,3,TRUE,1,0,0,4890,349,600000
+Anthony Elanga,Nottm Forest,144,22,1.78,right,Right Winger,Sweden,Premier League,1,2028,163,35,29,TRUE,17,3,1,10384,297,22000000
+Bowler,Nottm Forest,144,25,1.84,left,Right Winger,England,Premier League,1,2025,190,24,11,FALSE,0,0,1,11377,474,1500000
+Eric da Silva Moreira,Nottm Forest,144,18,1.85,right,Right Winger,Germany,Premier League,1,2028,50,18,10,TRUE,4,0,3,3667,204,1000000
+Taiwo Awoniyi,Nottm Forest,144,26,1.83,right,Centre-Forward,Nigeria,Premier League,1,2027,243,77,28,TRUE,8,2,3,15020,195,28000000
+Chris Wood,Nottm Forest,144,32,1.91,right,Centre-Forward,New Zealand,Premier League,1,2024,548,181,44,TRUE,74,34,8,35200,194,7000000
+Emmanuel Dennis,Nottm Forest,144,26,1.75,right,Centre-Forward,Nigeria,Premier League,1,2026,240,52,24,TRUE,8,1,3,14117,271,4200000
+Ui-jo Hwang,Nottm Forest,144,31,1.85,right,Centre-Forward,"Korea, South",Premier League,1,2025,390,112,31,TRUE,62,19,4,27224,243,1800000
+Lindstrøm,Everton,76,24,1.82,right,Attacking Midfield,Denmark,Premier League,1,2025,232,55,36,TRUE,16,1,2,14064,256,22000000
+Dwight McNeil,Everton,76,24,1.83,left,Left Winger,England,Premier League,1,2027,229,17,27,TRUE,10,0,0,18296,176,22000000
+Jack Harrison,Everton,76,27,1.75,left,Right Winger,England,Premier League,1,2025,310,52,46,TRUE,2,0,1,23511,452,18000000
+Dominic Calvert-Lewin,Everton,76,27,1.89,right,Centre-Forward,England,Premier League,1,2025,299,86,21,TRUE,11,4,4,19133,222,22000000
+Beto,Everton,76,26,1.94,right,Centre-Forward,Portugal,Premier League,1,2027,173,53,8,FALSE,0,0,0,10298,194,20000000
+Iliman Ndiaye,Everton,76,24,1.8,right,Centre-Forward,Senegal,Premier League,1,2029,134,26,19,TRUE,20,2,0,8764,337,15000000
+Neal Maupay,Everton,76,27,1.73,right,Centre-Forward,France,Premier League,1,2025,375,102,32,TRUE,2,1,0,23116,227,12000000
+Chermiti,Everton,76,20,1.92,right,Centre-Forward,Portugal,Premier League,1,2027,69,7,2,TRUE,2,1,0,2719,388,9000000
+Andreas Pereira,Fulham,69,28,1.78,right,Attacking Midfield,Brazil,Premier League,1,2026,363,38,43,TRUE,8,1,6,22783,600,20000000
+Luke Harris,Fulham,69,19,1.77,right,Attacking Midfield,Wales,Premier League,1,2026,97,42,15,TRUE,6,1,0,7522,179,1000000
+Alex Iwobi,Fulham,69,28,1.83,right,Left Winger,Nigeria,Premier League,1,2028,378,46,49,TRUE,80,10,3,25339,551,25000000
+Willian,Fulham,69,35,1.75,right,Left Winger,Brazil,Premier League,1,2024,746,115,148,TRUE,70,9,20,49826,433,3000000
+Harry Wilson,Fulham,69,27,1.73,left,Right Winger,Wales,Premier League,1,2026,331,91,76,TRUE,55,8,1,22521,247,17000000
+Adama Traoré,Fulham,69,28,1.78,right,Right Winger,Spain,Premier League,1,2025,391,33,60,TRUE,8,0,2,22317,676,9000000
+Rodrigo Muniz,Fulham,69,23,1.86,right,Centre-Forward,Brazil,Premier League,1,2026,115,29,2,FALSE,0,0,3,5144,177,20000000
+Raúl Jiménez,Fulham,69,33,1.87,right,Centre-Forward,Mexico,Premier League,1,2025,446,134,55,TRUE,105,33,11,27379,204,5000000
+Carlos Vinícius,Fulham,69,29,1.9,left,Centre-Forward,Brazil,Premier League,1,2025,246,87,36,FALSE,0,0,6,12546,144,4000000
+Jay Stansfield,Fulham,69,21,1.87,right,Centre-Forward,England,Premier League,1,2027,143,61,18,TRUE,3,0,1,10711,176,3500000
+Lallana,Southampton,428,36,1.72,right,Attacking Midfield,England,Premier League,1,2025,553,86,71,TRUE,34,3,5,37024,431,1000000
+Kamaldeen Sulemana,Southampton,428,22,1.75,right,Left Winger,Ghana,Premier League,1,2027,135,22,17,TRUE,19,0,0,7016,319,13000000
+Brereton Díaz,Southampton,428,25,1.85,right,Left Winger,Chile,Premier League,1,2028,273,64,24,TRUE,33,7,3,17066,267,8000000
+Samuel Edozie,Southampton,428,21,1.81,right,Left Winger,England,Premier League,1,2027,123,20,14,TRUE,0,0,5,7019,351,8000000
+Samuel Amo-Ameyaw,Southampton,428,18,1.74,right,Right Winger,England,Premier League,1,2026,56,16,10,TRUE,9,2,0,4053,253,300000
+Adam Armstrong,Southampton,428,27,1.73,right,Centre-Forward,England,Premier League,1,2027,427,139,52,TRUE,5,1,3,29731,214,16000000
+Paul Onuachu,Southampton,428,30,2.01,right,Centre-Forward,Nigeria,Premier League,1,2026,364,181,38,TRUE,25,3,6,23499,130,13000000
+Sékou Mara,Southampton,428,22,1.83,right,Centre-Forward,France,Premier League,1,2026,115,24,9,TRUE,4,1,0,4128,172,6000000
+Ross Stewart,Southampton,428,28,1.88,right,Centre-Forward,Scotland,Premier League,1,2026,243,93,23,TRUE,2,0,2,17238,185,4500000
+Stephy Mavididi,Leicester,137,26,1.82,right,Left Winger,England,Premier League,1,2028,306,79,19,TRUE,3,3,2,19328,245,11000000
+Issahaku Fatawu,Leicester,137,20,1.77,left,Right Winger,Ghana,Premier League,1,2029,76,18,15,TRUE,19,2,2,4965,276,10000000
+Bobby De Cordova-Reid,Leicester,137,31,1.7,right,Right Winger,Jamaica,Premier League,1,2027,440,69,50,TRUE,22,3,2,28811,418,5000000
+Kasey McAteer,Leicester,137,22,1.77,right,Right Winger,England,Premier League,1,2025,121,25,4,FALSE,0,0,2,7388,296,900000
+Wanya Marçal,Leicester,137,21,1.81,right,Right Winger,Portugal,Premier League,1,2026,89,15,6,TRUE,4,0,1,6758,451,300000
+Patson Daka,Leicester,137,25,1.83,right,Centre-Forward,Zambia,Premier League,1,2026,250,98,47,TRUE,35,12,14,13654,139,12000000
+Tom Cannon,Leicester,137,21,1.8,right,Centre-Forward,Ireland,Premier League,1,2028,138,62,17,TRUE,1,0,1,9092,147,4000000
+Jamie Vardy,Leicester,137,37,1.79,right,Centre-Forward,England,Premier League,1,2025,504,224,83,TRUE,26,7,9,37153,166,1000000
+Nathan Broadhead,Ipswich,124,26,1.78,right,Left Winger,Wales,Premier League,1,2026,194,59,21,TRUE,12,2,2,12239,207,5000000
+Marcus Harness,Ipswich,124,28,1.82,right,Left Winger,Ireland,Premier League,1,2025,347,52,44,FALSE,0,0,1,19874,382,800000
+Omari Hutchinson,Ipswich,124,20,1.74,left,Right Winger,Jamaica,Premier League,1,2029,123,36,32,TRUE,2,0,0,8246,229,7000000
+Conor Chaplin,Ipswich,124,27,1.68,left,Second Striker,England,Premier League,1,2026,386,103,35,FALSE,0,0,1,22135,215,7000000
+Delap,Ipswich,124,21,1.86,right,Centre-Forward,England,Premier League,1,2029,139,60,18,TRUE,5,2,9,8783,146,8000000
+George Hirst,Ipswich,124,25,1.91,right,Centre-Forward,England,Premier League,1,2027,193,47,20,TRUE,13,7,0,10556,225,4000000
+Ali Al-Hamadi,Ipswich,124,22,1.87,right,Centre-Forward,Iraq,Premier League,1,2028,113,42,12,TRUE,12,3,0,6896,164,1000000
+Freddie Ladapo,Ipswich,124,31,1.83,right,Centre-Forward,England,Premier League,1,2025,330,95,18,FALSE,0,0,1,18332,193,500000
+Jude Bellingham,Real Madrid,2,21,1.86,right,Attacking Midfield,England,LaLiga,2,2029,219,51,40,TRUE,36,5,7,16854,330,180000000
+Brahim Díaz,Real Madrid,2,24,1.7,right,Attacking Midfield,Morocco,LaLiga,2,2027,265,54,41,TRUE,4,0,10,14985,278,40000000
+Nico Paz,RM Castilla,2,19,1.86,left,Attacking Midfield,Argentina,Primera Federación - Gr. II,106,2027,70,18,7,TRUE,4,0,3,4252,236,10000000
+Reinier,Real Madrid,2,22,1.85,right,Attacking Midfield,Brazil,LaLiga,2,2026,98,14,7,TRUE,10,3,4,3443,246,3500000
+Vinicius Junior,Real Madrid,2,24,1.76,right,Left Winger,Brazil,LaLiga,2,2027,338,101,81,TRUE,33,5,17,22161,219,180000000
+Rodrygo,Real Madrid,2,23,1.74,right,Right Winger,Brazil,LaLiga,2,2028,299,73,49,TRUE,27,6,11,18331,251,110000000
+Arda Güler,Real Madrid,2,19,1.75,left,Right Winger,Türkiye,LaLiga,2,2029,93,29,25,TRUE,12,2,5,4858,168,45000000
+Kylian Mbappé,Real Madrid,2,25,1.78,right,Centre-Forward,France,LaLiga,2,2029,373,288,126,TRUE,84,48,42,28338,98,180000000
+Juanmi Latasa,Real Madrid,2,23,1.92,left,Centre-Forward,Spain,LaLiga,2,2025,116,29,1,TRUE,1,0,2,6447,222,2800000
+Ferran Torres,Barcelona,7,24,1.84,right,Left Winger,Spain,LaLiga,2,2027,265,51,34,TRUE,46,20,9,14601,286,30000000
+Ansu Fati,Barcelona,7,21,1.78,right,Left Winger,Spain,LaLiga,2,2027,148,37,14,TRUE,10,2,4,5962,161,25000000
+Lamine Yamal,Barcelona,7,17,1.8,left,Right Winger,Spain,LaLiga,2,2026,60,7,9,TRUE,14,3,5,3261,466,120000000
+Raphinha,Barcelona,7,27,1.76,left,Right Winger,Brazil,LaLiga,2,2027,333,82,63,TRUE,27,7,4,22665,276,50000000
+Vitor Roque,Barcelona,7,19,1.74,right,Centre-Forward,Brazil,LaLiga,2,2031,118,37,13,TRUE,1,0,2,6178,167,30000000
+Robert Lewandowski,Barcelona,7,35,1.85,right,Centre-Forward,Poland,LaLiga,2,2026,771,568,152,TRUE,152,83,65,63486,112,15000000
+Víctor,Barcelona,7,22,1.84,right,Centre-Forward,Spain,LaLiga,2,2029,89,27,12,FALSE,0,0,0,6769,251,1500000
+Thomas Lemar,Atlético Madrid,16,28,1.71,left,Attacking Midfield,France,LaLiga,2,2027,396,37,59,TRUE,27,4,4,23503,635,10000000
+Samuel Lino,Atlético Madrid,16,24,1.7,right,Left Winger,Brazil,LaLiga,2,2027,187,43,16,FALSE,0,0,0,12371,288,30000000
+Rodrigo Riquelme,Atlético Madrid,16,24,1.74,right,Left Winger,Spain,LaLiga,2,2028,183,27,29,TRUE,2,0,0,9791,363,25000000
+Mollejo,Atlético Madrid,16,23,1.77,left,Left Winger,Spain,LaLiga,2,2026,197,30,13,TRUE,13,3,2,11660,389,3000000
+Paulo,Atlético Madrid,16,23,1.86,right,Left Winger,Portugal,LaLiga,2,2026,143,21,14,TRUE,4,1,1,6954,331,2000000
+Ángel Correa,Atlético Madrid,16,29,1.71,right,Right Winger,Argentina,LaLiga,2,2026,485,92,79,TRUE,25,3,8,26014,283,18000000
+Valera,Atlético Madrid,16,22,1.7,left,Right Winger,Spain,LaLiga,2,2026,149,12,5,TRUE,2,0,1,8056,671,2000000
+Félix,Atlético Madrid,16,24,1.81,right,Second Striker,Portugal,LaLiga,2,2029,282,82,41,TRUE,41,8,3,17013,207,30000000
+Omorodion,Atlético Madrid,16,20,1.93,right,Centre-Forward,Spain,LaLiga,2,2028,72,27,1,TRUE,7,2,0,4221,156,35000000
+Antoine Griezmann,Atlético Madrid,16,33,1.76,left,Centre-Forward,France,LaLiga,2,2026,693,268,119,TRUE,135,44,11,52807,197,25000000
+Martín,Atlético Madrid,16,22,1.8,right,Centre-Forward,Spain,LaLiga,2,2029,89,36,7,TRUE,4,1,0,6484,180,3500000
+Simeone,Atlético Madrid,16,21,1.73,right,Centre-Forward,Argentina,LaLiga,2,2028,69,13,5,TRUE,2,2,0,4603,354,3000000
+Garcés,Atlético Madrid,16,24,1.83,right,Centre-Forward,Spain,LaLiga,2,2025,160,28,3,FALSE,0,0,0,7610,272,2000000
+Brais Méndez,Real Sociedad,41,27,1.84,left,Attacking Midfield,Spain,LaLiga,2,2028,319,49,35,TRUE,4,1,0,21671,442,40000000
+Arsen Zakharyan,Real Sociedad,41,21,1.83,right,Attacking Midfield,Russia,LaLiga,2,2029,161,36,40,TRUE,8,0,0,11189,311,18000000
+Navarro,Real Sociedad,41,22,1.78,right,Attacking Midfield,Spain,LaLiga,2,2025,143,21,13,TRUE,6,3,0,8649,412,6000000
+Jon Magunazelaia,Real Sociedad B,300,23,1.8,right,Attacking Midfield,Spain,Primera Federación - Gr. I,300,2026,96,14,4,FALSE,0,0,0,5765,412,1000000
+Ander Barrenetxea,Real Sociedad,41,22,1.75,right,Left Winger,Spain,LaLiga,2,2030,161,17,8,TRUE,14,1,2,7109,418,20000000
+Takefusa Kubo,Real Sociedad,41,23,1.73,left,Right Winger,Japan,LaLiga,2,2029,259,36,33,TRUE,35,4,1,16000,444,50000000
+Mikel Oyarzabal,Real Sociedad,41,27,1.81,left,Centre-Forward,Spain,LaLiga,2,2028,357,100,54,TRUE,37,12,3,26447,264,45000000
+Sheraldo Becker,Real Sociedad,41,29,1.8,right,Centre-Forward,Suriname,LaLiga,2,2026,339,50,61,TRUE,12,3,2,23100,462,10000000
+Umar Sadiq,Real Sociedad,41,27,1.91,right,Centre-Forward,Nigeria,LaLiga,2,2028,279,129,54,TRUE,11,1,3,19331,150,10000000
+Carlos Fernández,Real Sociedad,41,28,1.85,left,Centre-Forward,Spain,LaLiga,2,2026,273,70,12,TRUE,3,0,5,17587,251,1500000
+Oihan Sancet,Athletic,26,24,1.88,right,Attacking Midfield,Spain,LaLiga,2,2032,182,32,16,TRUE,4,1,2,10899,341,35000000
+Unai Gómez,Athletic,26,21,1.83,left,Attacking Midfield,Spain,LaLiga,2,2028,69,4,2,TRUE,1,0,1,3762,941,6000000
+Nico Williams,Athletic,26,22,1.81,right,Left Winger,Spain,LaLiga,2,2027,149,29,38,TRUE,20,4,2,9972,344,70000000
+Djaló,Athletic,26,24,1.75,right,Left Winger,Spain,LaLiga,2,2029,120,25,11,FALSE,0,0,1,5702,228,15000000
+Álex Berenguer,Athletic,26,29,1.75,right,Left Winger,Spain,LaLiga,2,2027,350,43,44,FALSE,0,0,2,20128,468,12000000
+Serrano,Athletic,26,21,1.76,left,Left Winger,Spain,LaLiga,2,2026,99,11,11,TRUE,9,6,1,4841,440,1400000
+Iñaki Williams,Athletic,26,30,1.86,right,Right Winger,Ghana,LaLiga,2,2028,453,121,63,TRUE,17,1,3,33587,278,25000000
+Adu Ares,Athletic,26,22,1.83,right,Right Winger,Spain,LaLiga,2,2027,74,12,1,FALSE,0,0,1,4441,370,2000000
+Artola,Athletic,26,24,1.77,right,Right Winger,Spain,LaLiga,2,2025,153,27,8,FALSE,0,0,0,8836,327,400000
+Gorka Guruzeta,Athletic,26,27,1.88,right,Centre-Forward,Spain,LaLiga,2,2028,260,71,23,FALSE,0,0,1,16621,234,18000000
+Martón,Athletic,26,25,1.81,right,Centre-Forward,Spain,LaLiga,2,2026,94,25,3,FALSE,0,0,0,5369,215,500000
+Diego López,Valencia,119,22,1.72,right,Left Winger,Spain,LaLiga,2,2027,72,12,8,TRUE,8,2,0,4317,360,14000000
+Fran Pérez,Valencia,119,21,1.76,right,Right Winger,Spain,LaLiga,2,2026,81,4,4,TRUE,7,1,0,4092,123,8000000
+Sergi Canós,Valencia,119,27,1.77,right,Right Winger,Spain,LaLiga,2,2027,326,49,46,TRUE,4,0,0,18168,371,2500000
+Castillejo,Valencia,119,29,1.82,left,Right Winger,Spain,LaLiga,2,2025,324,26,34,TRUE,4,0,1,17956,691,600000
+Hugo Duro,Valencia,119,24,1.77,left,Centre-Forward,Spain,LaLiga,2,2028,192,52,14,TRUE,1,1,0,12107,233,16000000
+Mir,Valencia,119,27,1.91,right,Centre-Forward,Spain,LaLiga,2,2025,284,87,16,TRUE,1,0,4,16160,186,2500000
+Alberto Marí,Valencia,119,23,1.83,right,Centre-Forward,Spain,LaLiga,2,2026,52,13,1,FALSE,0,0,0,2792,215,1500000
+Iván Martín,Girona,18,25,1.78,left,Attacking Midfield,Spain,LaLiga,2,2026,189,12,20,TRUE,2,1,0,13849,1154,15000000
+Misehouy,Girona,18,19,1.73,right,Attacking Midfield,Netherlands,LaLiga,2,2028,75,22,10,TRUE,1,0,0,4577,208,1000000
+Gil,Girona,18,23,1.75,left,Left Winger,Spain,LaLiga,2,2025,171,13,19,TRUE,4,0,3,8778,675,14000000
+Toni Villa,Girona,18,29,1.72,right,Left Winger,Spain,LaLiga,2,2025,302,28,14,FALSE,0,0,0,19793,707,1500000
+Ureña,Girona,18,21,1.71,right,Left Winger,Dominican Republic,LaLiga,2,2025,45,0,3,TRUE,1,0,1,2021,0,400000
+Viktor Tsygankov,Girona,18,26,1.78,left,Right Winger,Ukraine,LaLiga,2,2027,294,106,77,TRUE,55,13,7,21958,207,30000000
+Portu,Girona,18,32,1.67,right,Right Winger,Spain,LaLiga,2,2027,517,71,50,TRUE,1,0,1,36144,509,3500000
+Valery Fernández,Girona,18,24,1.82,right,Right Winger,Spain,LaLiga,2,2026,148,11,6,TRUE,0,0,0,6119,556,2500000
+Vallejo,Girona,18,27,1.67,right,Second Striker,Spain,LaLiga,2,2025,163,29,11,TRUE,3,0,1,7449,257,1500000
+Artem Dovbyk,Girona,18,27,1.89,left,Centre-Forward,Ukraine,LaLiga,2,2028,212,102,27,TRUE,31,10,8,14062,138,35000000
+Ruiz,Girona,18,24,1.82,right,Centre-Forward,Spain,LaLiga,2,2029,274,50,25,TRUE,2,0,7,15620,312,12000000
+Cristhian Stuani,Girona,18,37,1.84,right,Centre-Forward,Uruguay,LaLiga,2,2026,585,245,26,TRUE,50,8,3,37145,152,1800000
+Álex Baena,Villarreal,29,23,1.74,right,Attacking Midfield,Spain,LaLiga,2,2028,183,24,42,TRUE,5,1,2,11980,499,40000000
+Denis Suárez,Villarreal,29,30,1.76,right,Attacking Midfield,Spain,LaLiga,2,2026,370,37,64,TRUE,1,0,7,23193,627,1500000
+Danjuma,Villarreal,29,27,1.78,right,Left Winger,Netherlands,LaLiga,2,2026,245,77,36,TRUE,6,2,2,14808,192,13000000
+Yéremy Pino,Villarreal,29,21,1.72,right,Right Winger,Spain,LaLiga,2,2027,133,18,12,TRUE,12,2,2,7220,401,30000000
+Ilias Akhomach,Villarreal,29,20,1.75,left,Right Winger,Morocco,LaLiga,2,2026,95,9,5,TRUE,3,0,0,5340,593,15000000
+Hassan,Villarreal,29,22,1.75,right,Right Winger,France,LaLiga,2,2025,157,8,16,TRUE,0,0,0,7790,974,2000000
+Alexander Sørloth,Villarreal,29,28,1.95,left,Centre-Forward,Norway,LaLiga,2,2028,370,131,48,TRUE,53,18,5,22879,175,25000000
+Gerard Moreno,Villarreal,29,32,1.8,left,Centre-Forward,Spain,LaLiga,2,2027,458,181,63,TRUE,18,5,2,33139,183,10000000
+Rodríguez,Sevilla FC,109,26,1.74,right,Attacking Midfield,Spain,LaLiga,2,2025,250,34,22,TRUE,2,0,0,15163,446,2500000
+Lucas Ocampos,Sevilla FC,109,30,1.87,right,Left Winger,Argentina,LaLiga,2,2025,511,96,52,TRUE,12,2,3,33089,345,9000000
+Chidera Ejuke,Sevilla FC,109,26,1.76,right,Left Winger,Nigeria,LaLiga,2,2027,240,43,29,TRUE,8,0,0,15978,372,6000000
+Dodi Lukébakio,Sevilla FC,109,26,1.87,left,Right Winger,Belgium,LaLiga,2,2028,239,54,35,TRUE,18,2,0,14205,263,12000000
+Suso,Sevilla FC,109,30,1.77,left,Right Winger,Spain,LaLiga,2,2025,426,54,77,TRUE,5,0,3,28519,528,4000000
+Peque Fernández,Sevilla FC,109,21,1.72,right,Second Striker,Spain,LaLiga,2,2028,117,28,7,TRUE,0,0,0,5932,212,3000000
+Isaac Romero,Sevilla FC,109,24,1.84,left,Centre-Forward,Spain,LaLiga,2,2028,88,30,14,FALSE,0,0,0,6148,205,18000000
+Iheanacho,Sevilla FC,109,27,1.85,left,Centre-Forward,Nigeria,LaLiga,2,2026,305,87,45,TRUE,55,15,5,13665,157,12000000
+Pablo Fornals,Real Betis,54,28,1.78,right,Attacking Midfield,Spain,LaLiga,2,2029,377,42,42,TRUE,6,1,2,24353,580,14000000
+Nabil Fekir,Real Betis,54,31,1.73,left,Attacking Midfield,France,LaLiga,2,2026,355,98,74,TRUE,25,2,3,25708,262,10000000
+Isco,Real Betis,54,32,1.76,right,Attacking Midfield,Spain,LaLiga,2,2027,523,83,77,TRUE,38,12,20,32239,388,8000000
+Rodri Sánchez,Real Betis,54,24,1.75,left,Attacking Midfield,Spain,LaLiga,2,2028,133,9,15,TRUE,19,3,1,6404,712,3000000
+Assane Diao,Real Betis,54,18,1.85,right,Left Winger,Spain,LaLiga,2,2027,53,10,2,TRUE,11,0,1,3280,328,12000000
+Abde Ezzalzouli,Real Betis,54,22,1.77,right,Left Winger,Morocco,LaLiga,2,2028,127,17,9,TRUE,5,3,2,6644,391,9000000
+Ayoze Pérez,Real Betis,54,31,1.78,right,Left Winger,Spain,LaLiga,2,2027,419,95,40,TRUE,2,1,4,26761,282,7000000
+,Real Betis,54,31,1.72,right,Left Winger,Spain,LaLiga,2,2026,387,85,25,TRUE,1,0,3,19655,231,6000000
+Aitor Ruibal,Real Betis,54,28,1.76,right,Right Winger,Spain,LaLiga,2,2025,266,36,14,FALSE,0,0,1,17090,475,3500000
+Collado,Real Betis,54,25,1.77,left,Right Winger,Spain,LaLiga,2,2029,173,29,18,TRUE,1,0,3,13051,450,2300000
+Losada,Real Betis,54,23,1.75,right,Second Striker,Spain,LaLiga,2,2029,154,26,19,TRUE,2,0,0,9540,367,1800000
+Chimy Ávila,Real Betis,54,30,1.72,right,Centre-Forward,Argentina,LaLiga,2,2027,243,49,16,FALSE,0,0,0,12967,265,3000000
+Cédric Bakambu,Real Betis,54,33,1.82,right,Centre-Forward,DR Congo,LaLiga,2,2026,421,172,42,TRUE,54,16,5,26449,154,2500000
+Alberto Moleiro,UD Las Palmas,309,20,1.71,right,Attacking Midfield,Spain,LaLiga,2,2026,115,7,13,TRUE,4,0,0,7034,105,15000000
+Kirian Rodríguez,UD Las Palmas,309,28,1.78,right,Attacking Midfield,Spain,LaLiga,2,2028,191,18,12,FALSE,0,0,0,13462,748,12000000
+Gil,UD Las Palmas,309,24,1.68,right,Attacking Midfield,Spain,LaLiga,2,2027,148,20,7,FALSE,0,0,0,8792,440,1000000
+Fuster,UD Las Palmas,309,26,1.69,right,Left Winger,Spain,LaLiga,2,2028,259,43,28,FALSE,0,0,0,19225,447,2400000
+Pejiño,UD Las Palmas,309,28,1.78,left,Left Winger,Spain,LaLiga,2,2026,143,22,11,FALSE,0,0,0,7524,342,1200000
+Benito Ramírez,UD Las Palmas,309,29,1.79,left,Left Winger,Spain,LaLiga,2,2025,216,14,11,FALSE,0,0,0,12149,868,600000
+Januzaj,UD Las Palmas,309,29,1.86,left,Right Winger,Belgium,LaLiga,2,2025,343,42,46,TRUE,15,1,7,18918,450,2000000
+Park,UD Las Palmas,309,24,1.77,right,Right Winger,Spain,LaLiga,2,2028,133,7,11,TRUE,1,0,1,7110,116,2000000
+Rozada,UD Las Palmas,309,26,1.72,right,Right Winger,Spain,LaLiga,2,2027,182,9,16,FALSE,0,0,0,11691,1299,1500000
+García,UD Las Palmas,309,21,1.81,right,Right Winger,Spain,LaLiga,2,2027,58,8,4,TRUE,4,2,0,2674,334,250000
+McBurnie,UD Las Palmas,309,28,1.88,right,Centre-Forward,Scotland,LaLiga,2,2027,316,106,23,TRUE,17,0,0,19395,183,4500000
+Sory Kaba,UD Las Palmas,309,29,1.89,right,Centre-Forward,Guinea,LaLiga,2,2027,257,75,23,TRUE,21,3,2,16002,213,1500000
+Sandro Ramírez,UD Las Palmas,309,29,1.74,right,Centre-Forward,Spain,LaLiga,2,2026,309,60,25,TRUE,7,1,7,17430,291,1500000
+Marc Cardona,UD Las Palmas,309,29,1.82,right,Centre-Forward,Spain,LaLiga,2,2026,209,43,22,FALSE,0,0,1,10088,235,1400000
+Jaime Mata,UD Las Palmas,309,35,1.86,right,Centre-Forward,Spain,LaLiga,2,2025,473,150,36,TRUE,1,0,1,32466,216,900000
+Cédric,UD Las Palmas,309,22,1.87,right,Centre-Forward,Cameroon,LaLiga,2,2026,80,26,3,TRUE,2,0,0,5344,206,400000
+Aimar Oroz,CA Osasuna,125,22,1.77,right,Attacking Midfield,Spain,LaLiga,2,2026,157,19,8,TRUE,3,0,1,11177,588,15000000
+Martínez,CA Osasuna,125,24,1.81,right,Attacking Midfield,Spain,LaLiga,2,2026,170,11,8,TRUE,4,0,1,10268,933,1200000
+Moi Gómez,CA Osasuna,125,30,1.76,right,Left Winger,Spain,LaLiga,2,2027,450,37,51,TRUE,3,1,1,28337,766,3500000
+José Manuel Arnáiz,CA Osasuna,125,29,1.73,right,Left Winger,Spain,LaLiga,2,2025,284,62,15,FALSE,0,0,2,18713,302,2000000
+Yoldi,CA Osasuna,125,23,1.87,right,Left Winger,Spain,LaLiga,2,2026,102,24,4,FALSE,0,0,0,6245,260,400000
+Rubén García,CA Osasuna,125,31,1.72,left,Right Winger,Spain,LaLiga,2,2026,412,43,46,TRUE,1,0,2,25919,603,2500000
+Kike Barja,CA Osasuna,125,27,1.79,right,Right Winger,Spain,LaLiga,2,2026,236,29,20,TRUE,0,0,1,12707,438,2000000
+Benito,CA Osasuna,125,21,1.76,right,Right Winger,Spain,LaLiga,2,2025,127,10,2,FALSE,0,0,0,7022,702,800000
+Ante Budimir,CA Osasuna,125,33,1.9,left,Centre-Forward,Croatia,LaLiga,2,2027,409,134,35,TRUE,24,3,0,28084,210,5000000
+Raúl García,CA Osasuna,125,23,1.92,right,Centre-Forward,Spain,LaLiga,2,2028,141,47,12,FALSE,0,0,2,9015,192,4000000
+Dani Rodríguez,RCD Mallorca,130,36,1.78,right,Attacking Midfield,Spain,LaLiga,2,2025,539,56,38,FALSE,0,0,0,41225,736,1000000
+Javi Llabrés,RCD Mallorca,130,21,1.74,right,Left Winger,Spain,LaLiga,2,2026,47,6,3,FALSE,0,0,0,1587,265,700000
+Takuma Asano,RCD Mallorca,130,29,1.73,right,Right Winger,Japan,LaLiga,2,2026,325,78,43,TRUE,52,9,5,19454,249,4000000
+Vedat Muriqi,RCD Mallorca,130,30,1.94,left,Centre-Forward,Kosovo,LaLiga,2,2027,383,111,34,TRUE,51,26,2,25376,229,12000000
+Cyle Larin,RCD Mallorca,130,29,1.88,right,Centre-Forward,Canada,LaLiga,2,2028,305,108,34,TRUE,73,29,5,20404,189,4000000
+Abdón Prats,RCD Mallorca,130,31,1.81,left,Centre-Forward,Spain,LaLiga,2,2026,441,114,17,FALSE,0,0,0,22942,201,1800000
+Williot Swedberg,Celta de Vigo,113,20,1.87,right,Attacking Midfield,Sweden,LaLiga,2,2027,94,14,3,TRUE,1,0,0,5169,369,5000000
+Jonathan Bamba,Celta de Vigo,113,28,1.75,right,Left Winger,Cote d'Ivoire,LaLiga,2,2026,324,49,52,TRUE,10,1,3,23911,488,9000000
+Lobete,Celta de Vigo,113,23,1.77,right,Left Winger,Spain,LaLiga,2,2026,160,25,16,TRUE,5,3,0,9847,394,1500000
+Álvarez,Celta de Vigo,113,21,1.76,right,Left Winger,Spain,LaLiga,2,2025,82,9,10,TRUE,0,0,0,5916,657,1500000
+Franco Cervi,Celta de Vigo,113,30,1.66,left,Left Winger,Argentina,LaLiga,2,2026,322,35,49,TRUE,4,1,5,19591,560,1500000
+Tadeo Allende,Celta de Vigo,113,25,1.83,right,Right Winger,Argentina,LaLiga,2,2028,114,16,7,FALSE,0,0,0,5970,373,4000000
+Anastasios Douvikas,Celta de Vigo,113,24,1.86,right,Centre-Forward,Greece,LaLiga,2,2028,225,69,17,TRUE,17,1,2,12757,185,6000000
+Borja Iglesias,Celta de Vigo,113,31,1.87,right,Centre-Forward,Spain,LaLiga,2,2025,428,174,23,TRUE,2,0,4,29887,172,5000000
+Iago Aspas,Celta de Vigo,113,37,1.76,left,Centre-Forward,Spain,LaLiga,2,2025,598,225,83,TRUE,20,6,1,41407,184,3000000
+Paciência,Celta de Vigo,113,30,1.84,right,Centre-Forward,Portugal,LaLiga,2,2025,273,58,24,TRUE,2,1,5,13383,231,1500000
+Durán,Celta de Vigo,113,23,1.76,right,Centre-Forward,Spain,LaLiga,2,2027,104,23,7,FALSE,0,0,0,5534,241,300000
+,Alavés,122,30,1.78,right,Left Winger,Spain,LaLiga,2,2027,318,103,18,FALSE,0,0,0,21818,212,4000000
+Abde Rebbach,Alavés,122,25,1.76,right,Left Winger,Algeria,LaLiga,2,2028,65,8,5,FALSE,0,0,0,2853,357,800000
+Luka Romero,Alavés,122,19,1.69,left,Right Winger,Argentina,LaLiga,2,2025,53,5,0,TRUE,0,0,0,1503,301,5000000
+Carlos Vicente,Alavés,122,25,1.79,right,Right Winger,Spain,LaLiga,2,2027,142,29,25,FALSE,0,0,0,10406,359,4000000
+Villalibre,Alavés,122,26,1.82,left,Centre-Forward,Spain,LaLiga,2,2028,289,69,26,TRUE,1,0,2,14772,214,2500000
+Kike García,Alavés,122,34,1.86,right,Centre-Forward,Spain,LaLiga,2,2025,541,125,26,TRUE,0,0,1,32510,260,1000000
+Joaquín Panichelli,Alavés B,300,21,1.87,right,Centre-Forward,Argentina,Segunda Federación - Gr. II,300,2026,19,2,0,FALSE,0,0,0,531,266,300000
+Sola,Getafe,191,25,1.78,right,Right Winger,Spain,LaLiga,2,2027,166,5,9,TRUE,1,0,0,9976,1995,4000000
+Federico,Getafe,191,22,1.8,left,Right Winger,Dominican Republic,LaLiga,2,2028,141,15,18,TRUE,0,0,2,8469,565,3000000
+Pérez,Getafe,191,26,1.73,left,Right Winger,Spain,LaLiga,2,2025,225,41,28,TRUE,2,0,2,12292,300,2500000
+Borja Mayoral,Getafe,191,27,1.82,right,Centre-Forward,Spain,LaLiga,2,2027,318,105,25,TRUE,31,16,7,18698,178,15000000
+Randy Nteka,Rayo Vallecano,200,26,1.89,left,Attacking Midfield,Angola,LaLiga,2,2026,226,29,8,TRUE,1,0,0,14551,502,1500000
+Montiel,Rayo Vallecano,200,25,1.73,left,Attacking Midfield,Spain,LaLiga,2,2025,220,21,17,TRUE,3,0,1,10729,511,1200000
+Óscar Trejo,Rayo Vallecano,200,36,1.8,right,Attacking Midfield,Argentina,LaLiga,2,2025,590,74,54,FALSE,0,0,1,39113,529,1000000
+Álvaro García,Rayo Vallecano,200,31,1.67,right,Left Winger,Spain,LaLiga,2,2026,435,67,46,FALSE,0,0,0,30862,461,3000000
+Bebé,Rayo Vallecano,200,34,1.9,right,Left Winger,Cape Verde,LaLiga,2,2025,352,57,27,TRUE,23,6,5,19058,334,600000
+Isi Palazón,Rayo Vallecano,200,29,1.69,left,Right Winger,Spain,LaLiga,2,2028,354,53,23,FALSE,0,0,0,22597,426,8000000
+Jorge de Frutos,Rayo Vallecano,200,27,1.73,right,Right Winger,Spain,LaLiga,2,2028,266,34,33,FALSE,0,0,0,17327,510,4000000
+Embarba,Rayo Vallecano,200,32,1.73,right,Right Winger,Spain,LaLiga,2,2025,355,51,67,FALSE,0,0,2,24535,481,1800000
+Sergio Camello,Rayo Vallecano,200,23,1.82,right,Centre-Forward,Spain,LaLiga,2,2027,181,48,11,TRUE,1,0,1,12330,257,3000000
+Raúl de Tomás,Rayo Vallecano,200,29,1.8,right,Centre-Forward,Spain,LaLiga,2,2027,363,135,24,TRUE,4,0,4,24121,179,2000000
+Martín,Rayo Vallecano,200,25,1.78,left,Centre-Forward,Spain,LaLiga,2,2025,198,31,17,TRUE,6,0,0,9484,306,1200000
+Amallah,Real Valladolid,226,27,1.85,right,Attacking Midfield,Morocco,LaLiga,2,2027,210,47,25,TRUE,37,4,0,13493,287,1500000
+Biuk,Real Valladolid,226,21,1.84,right,Left Winger,Croatia,LaLiga,2,2029,122,9,10,TRUE,19,2,2,6502,722,4000000
+Moro,Real Valladolid,226,21,1.69,right,Left Winger,Spain,LaLiga,2,2028,121,25,16,TRUE,1,0,1,6133,245,2500000
+Machís,Real Valladolid,226,31,1.71,right,Left Winger,Venezuela,LaLiga,2,2026,391,87,47,TRUE,48,11,1,24267,279,2000000
+Kenedy,Real Valladolid,226,28,1.8,left,Left Winger,Brazil,LaLiga,2,2027,235,22,26,TRUE,2,0,4,10983,499,2000000
+Ndiaye,Real Valladolid,226,28,1.73,right,Left Winger,Senegal,LaLiga,2,2027,221,36,16,TRUE,4,0,0,13641,379,1500000
+Akinsola,Real Valladolid,226,21,1.75,right,Left Winger,Nigeria,LaLiga,2,2025,40,1,4,TRUE,3,0,0,1608,1608,250000
+Iván Sánchez,Real Valladolid,226,31,1.69,left,Right Winger,Spain,LaLiga,2,2025,452,37,33,FALSE,0,0,0,28939,782,1000000
+Marcos André,Real Valladolid,226,27,1.85,right,Centre-Forward,Brazil,LaLiga,2,2028,234,50,16,FALSE,0,0,0,13403,268,2000000
+Mamadou Sylla,Real Valladolid,226,30,1.8,right,Centre-Forward,Senegal,LaLiga,2,2026,329,66,32,FALSE,0,0,0,19716,299,1500000
+Israel Salazar,Valladolid Prom,300,21,1.78,right,Centre-Forward,Spain,Segunda Federación - Gr. I,300,2025,72,8,3,TRUE,3,3,1,3490,436,200000
+Javi Puado,Espanyol,204,26,1.77,right,Left Winger,Spain,LaLiga,2,2025,203,52,20,TRUE,1,1,1,13581,261,8000000
+Pere Milla,Espanyol,204,31,1.8,left,Left Winger,Spain,LaLiga,2,2027,431,76,25,FALSE,0,0,0,27335,360,2400000
+José Carlos Lazo,Espanyol,204,28,1.78,left,Left Winger,Spain,LaLiga,2,2027,280,43,26,FALSE,0,0,1,15654,364,1500000
+Soler,Espanyol,204,23,1.75,left,Left Winger,Spain,LaLiga,2,2026,85,7,1,FALSE,0,0,0,3601,514,200000
+Jofre Carreras,Espanyol,204,23,1.75,right,Right Winger,Spain,LaLiga,2,2026,109,11,5,FALSE,0,0,1,4938,449,1800000
+Salvi Sánchez,Espanyol,204,33,1.7,right,Right Winger,Spain,LaLiga,2,2025,400,43,28,FALSE,0,0,0,25860,601,1200000
+Svensson,Espanyol,204,22,1.82,right,Centre-Forward,Spain,LaLiga,2,2025,129,27,1,FALSE,0,0,1,7569,280,400000
+Roberto López,CD Leganés,120,24,1.79,left,Attacking Midfield,Spain,LaLiga,2,2027,191,36,29,TRUE,3,2,0,12230,340,2500000
+Dani Raba,CD Leganés,120,28,1.85,left,Right Winger,Spain,LaLiga,2,2025,200,31,23,FALSE,0,0,3,10705,345,2200000
+Cruz,CD Leganés,120,24,1.8,left,Right Winger,Spain,LaLiga,2,2028,100,18,3,TRUE,1,0,1,5218,290,1500000
+García,CD Leganés,120,22,1.8,left,Right Winger,Spain,LaLiga,2,2027,87,9,4,FALSE,0,0,1,3863,429,500000
+Avilés,CD Leganés,120,26,1.81,right,Right Winger,Spain,LaLiga,2,2026,103,3,8,FALSE,0,0,0,3816,1272,250000
+Miguel de la Fuente,CD Leganés,120,24,1.82,right,Centre-Forward,Spain,LaLiga,2,2028,223,49,14,TRUE,1,1,2,13056,266,2500000
+Diego García,CD Leganés,120,24,1.88,right,Centre-Forward,Spain,LaLiga,2,2027,117,33,1,FALSE,0,0,1,7949,241,2000000
+Jamal Musiala,Bayern Munich,12,21,1.84,right,Attacking Midfield,Germany,Bundesliga,3,2026,196,51,34,TRUE,34,5,13,11328,222,130000000
+Kingsley Coman,Bayern Munich,12,28,1.81,right,Left Winger,France,Bundesliga,3,2027,326,65,68,TRUE,57,8,29,19484,300,50000000
+Mathys Tel,Bayern Munich,12,19,1.83,right,Left Winger,France,Bundesliga,3,2029,88,25,6,TRUE,4,2,2,2814,113,40000000
+Bryan Zaragoza,Bayern Munich,12,22,1.64,right,Left Winger,Spain,Bundesliga,3,2029,113,19,3,TRUE,1,0,1,5491,289,12000000
+Arijon Ibrahimovic,Bayern Munich,12,18,1.76,right,Left Winger,Germany,Bundesliga,3,2027,82,34,29,TRUE,1,0,2,5166,152,4000000
+Gabriel Vidovic,Bayern Munich,12,20,1.8,right,Left Winger,Croatia,Bundesliga,3,2025,123,38,16,TRUE,16,2,4,6983,184,3500000
+Leroy Sané,Bayern Munich,12,28,1.83,left,Right Winger,Germany,Bundesliga,3,2025,451,120,121,TRUE,65,13,15,29455,245,70000000
+Olise,Bayern Munich,12,22,1.84,left,Right Winger,France,Bundesliga,3,2029,198,31,44,TRUE,1,2,0,13441,434,55000000
+Serge Gnabry,Bayern Munich,12,29,1.76,right,Right Winger,Germany,Bundesliga,3,2026,369,127,74,TRUE,45,22,19,23253,183,40000000
+Thomas Müller,Bayern Munich,12,34,1.85,right,Second Striker,Germany,Bundesliga,3,2025,795,284,273,TRUE,131,45,36,58659,207,8000000
+Harry Kane,Bayern Munich,12,31,1.88,right,Centre-Forward,England,Bundesliga,3,2027,559,351,89,TRUE,98,66,15,43654,124,100000000
+Florian Wirtz,B. Leverkusen,5,21,1.77,right,Attacking Midfield,Germany,Bundesliga,3,2027,180,55,56,TRUE,23,3,5,13166,239,130000000
+Jonas Hofmann,B. Leverkusen,5,32,1.76,right,Attacking Midfield,Germany,Bundesliga,3,2027,476,104,97,TRUE,23,4,6,31868,306,10000000
+Ayman Aourir,B. Leverkusen,5,19,1.72,right,Attacking Midfield,Morocco,Bundesliga,3,2025,63,11,14,TRUE,2,0,2,4474,407,300000
+Amine Adli,B. Leverkusen,5,24,1.74,left,Left Winger,Morocco,Bundesliga,3,2026,185,34,30,TRUE,11,1,3,11179,329,30000000
+Martin Terrier,B. Leverkusen,5,27,1.84,right,Left Winger,France,Bundesliga,3,2029,275,78,30,TRUE,13,7,0,17397,223,20000000
+Nathan Tella,B. Leverkusen,5,25,1.73,right,Right Winger,Nigeria,Bundesliga,3,2028,187,42,24,TRUE,1,0,3,10021,239,23000000
+Adam Hlozek,B. Leverkusen,5,22,1.88,right,Second Striker,Czech Republic,Bundesliga,3,2027,223,62,47,TRUE,34,2,4,14405,232,12000000
+Victor Boniface,B. Leverkusen,5,23,1.9,right,Centre-Forward,Nigeria,Bundesliga,3,2028,151,61,30,TRUE,6,1,6,8445,138,40000000
+Patrik Schick,B. Leverkusen,5,28,1.91,left,Centre-Forward,Czech Republic,Bundesliga,3,2027,284,95,22,TRUE,40,20,8,16260,171,22000000
+Julian Brandt,Bor. Dortmund,9,28,1.85,right,Attacking Midfield,Germany,Bundesliga,3,2026,499,118,128,TRUE,47,3,5,32957,279,40000000
+Giovanni Reyna,Bor. Dortmund,9,21,1.85,right,Attacking Midfield,United States,Bundesliga,3,2026,147,25,27,TRUE,31,8,4,6744,270,18000000
+Karim Adeyemi,Bor. Dortmund,9,22,1.8,left,Left Winger,Germany,Bundesliga,3,2027,232,85,52,TRUE,4,0,9,13754,162,28000000
+Jamie Bynoe-Gittens,Bor. Dortmund,9,19,1.77,right,Left Winger,England,Bundesliga,3,2028,80,17,14,TRUE,7,1,3,3605,212,28000000
+Donyell Malen,Bor. Dortmund,9,25,1.76,right,Right Winger,Netherlands,Bundesliga,3,2026,310,122,55,TRUE,37,11,1,19629,161,40000000
+Julien Duranville,Bor. Dortmund,9,18,1.73,right,Right Winger,Belgium,Bundesliga,3,2030,23,2,4,TRUE,1,0,0,896,448,8500000
+Guirassy,Bor. Dortmund,9,28,1.87,right,Centre-Forward,Guinea,Bundesliga,3,2028,290,109,16,TRUE,18,3,1,17214,158,40000000
+Youssoufa Moukoko,Bor. Dortmund,9,19,1.79,left,Centre-Forward,Germany,Bundesliga,3,2026,189,160,35,TRUE,13,12,8,10882,68,22000000
+Niclas Füllkrug,Bor. Dortmund,9,31,1.89,right,Centre-Forward,Germany,Bundesliga,3,2026,417,159,55,TRUE,21,13,2,27566,173,15000000
+Sébastien Haller,Bor. Dortmund,9,30,1.91,right,Centre-Forward,Cote d'Ivoire,Bundesliga,3,2026,393,165,62,TRUE,27,10,7,28457,172,10000000
+Dani Olmo,RB Leipzig,10,26,1.79,right,Attacking Midfield,Spain,Bundesliga,3,2027,309,67,63,TRUE,39,11,17,20694,309,60000000
+Eljif Elmas,RB Leipzig,10,24,1.84,right,Attacking Midfield,North Macedonia,Bundesliga,3,2028,298,31,20,TRUE,60,12,2,13780,445,20000000
+Christoph Baumgartner,RB Leipzig,10,25,1.8,right,Attacking Midfield,Austria,Bundesliga,3,2028,267,88,41,TRUE,42,16,2,17793,202,18000000
+Loïs Openda,RB Leipzig,10,24,1.77,right,Centre-Forward,Belgium,Bundesliga,3,2028,238,92,29,TRUE,20,2,3,15060,164,60000000
+Benjamin Sesko,RB Leipzig,10,21,1.95,right,Centre-Forward,Slovenia,Bundesliga,3,2029,179,79,20,TRUE,33,11,8,9428,119,50000000
+Yussuf Poulsen,RB Leipzig,10,30,1.92,right,Centre-Forward,Denmark,Bundesliga,3,2026,451,112,76,TRUE,84,13,3,28001,250,6000000
+Farès Chaïbi,E. Frankfurt,64,21,1.83,right,Attacking Midfield,Algeria,Bundesliga,3,2028,102,16,23,TRUE,14,2,1,7137,446,18000000
+Can Uzun,E. Frankfurt,64,18,1.86,right,Attacking Midfield,Türkiye,Bundesliga,3,2029,82,67,10,TRUE,1,0,2,5974,89,12000000
+Mario Götze,E. Frankfurt,64,32,1.76,right,Attacking Midfield,Germany,Bundesliga,3,2026,545,130,129,TRUE,66,17,18,38416,296,5500000
+Krisztián Lisztes,E. Frankfurt,64,19,1.83,right,Attacking Midfield,Hungary,Bundesliga,3,2029,64,18,10,TRUE,8,1,2,3315,184,3000000
+Jean-Mattéo Bahoya,E. Frankfurt,64,19,1.8,right,Left Winger,France,Bundesliga,3,2029,52,12,5,TRUE,4,0,0,1920,160,7500000
+Faride Alidou,E. Frankfurt,64,23,1.86,right,Left Winger,Germany,Bundesliga,3,2026,139,24,18,TRUE,10,0,0,7304,304,2500000
+Ansgar Knauff,E. Frankfurt,64,22,1.8,right,Right Winger,Germany,Bundesliga,3,2028,195,35,33,TRUE,16,1,3,11752,336,10000000
+Omar Marmoush,E. Frankfurt,64,25,1.83,right,Centre-Forward,Egypt,Bundesliga,3,2027,188,50,18,TRUE,29,5,1,10640,213,22000000
+Hugo Ekitiké,E. Frankfurt,64,22,1.89,right,Centre-Forward,France,Bundesliga,3,2029,103,28,13,TRUE,0,0,3,5286,189,20000000
+Igor Matanovic,E. Frankfurt,64,21,1.94,right,Centre-Forward,Croatia,Bundesliga,3,2029,125,39,21,TRUE,6,2,0,6646,170,5000000
+Enzo Millot,VfB Stuttgart,14,22,1.75,left,Attacking Midfield,France,Bundesliga,3,2028,90,12,16,TRUE,1,0,0,4993,416,30000000
+Fabian Rieder,VfB Stuttgart,14,22,1.79,left,Attacking Midfield,Switzerland,Bundesliga,3,2025,189,32,25,TRUE,10,0,5,11436,357,8000000
+Woo-yeong Jeong,VfB Stuttgart,14,24,1.79,right,Attacking Midfield,"Korea, South",Bundesliga,3,2026,195,32,27,TRUE,20,4,7,9544,298,3500000
+Ömer Beyaz,VfB Stuttgart,14,20,1.71,left,Attacking Midfield,Türkiye,Bundesliga,3,2025,61,2,1,TRUE,16,1,0,2940,1470,650000
+Chris Führich,VfB Stuttgart,14,26,1.81,right,Left Winger,Germany,Bundesliga,3,2028,267,55,40,TRUE,5,0,2,19533,355,28000000
+Justin Diehl,VfB Stuttgart,14,19,1.74,right,Left Winger,Germany,Bundesliga,3,2029,72,43,14,TRUE,4,0,1,5057,118,2500000
+Silas,VfB Stuttgart,14,25,1.89,right,Right Winger,DR Congo,Bundesliga,3,2026,167,47,23,TRUE,16,1,0,10114,215,10000000
+Jamie Leweling,VfB Stuttgart,14,23,1.85,right,Right Winger,Germany,Bundesliga,3,2028,152,15,14,TRUE,11,1,0,5936,396,9000000
+Luca Raimund,VfB Stuttgart,14,19,1.88,left,Right Winger,Germany,Bundesliga,3,2026,64,17,13,TRUE,6,0,1,4038,238,500000
+Nick Woltemade,VfB Stuttgart,14,22,1.98,right,Second Striker,Germany,Bundesliga,3,2028,142,57,28,TRUE,6,1,4,8506,149,4000000
+Ermedin Demirovic,VfB Stuttgart,14,26,1.85,right,Centre-Forward,Bosnia-Herzegovina,Bundesliga,3,2028,283,95,50,TRUE,26,1,0,17882,188,28000000
+Wahid Faghir,VfB Stuttgart,14,21,1.86,right,Centre-Forward,Denmark,Bundesliga,3,2026,115,33,10,TRUE,11,2,1,6436,195,2000000
+Luca Pfeiffer,VfB Stuttgart,14,27,1.96,right,Centre-Forward,Germany,Bundesliga,3,2026,309,105,36,FALSE,0,0,1,19647,187,1200000
+Mohamed Sankoh,VfB Stuttgart,14,20,1.83,right,Centre-Forward,Netherlands,Bundesliga,3,2026,108,41,18,TRUE,3,1,1,6163,150,700000
+Thomas Kastanaras,VfB Stuttgart,14,21,1.86,right,Centre-Forward,Germany,Bundesliga,3,2026,109,63,14,TRUE,2,0,4,6568,104,500000
+Lovro Majer,VfL Wolfsburg,169,26,1.78,left,Attacking Midfield,Croatia,Bundesliga,3,2028,276,51,62,TRUE,34,8,6,18142,356,20000000
+Bence Dárdai,VfL Wolfsburg,169,18,1.89,right,Attacking Midfield,Germany,Bundesliga,3,2030,62,11,25,TRUE,3,0,1,4362,397,2000000
+Jakub Kaminski,VfL Wolfsburg,169,22,1.79,right,Left Winger,Poland,Bundesliga,3,2027,189,32,25,TRUE,14,1,3,12531,392,6000000
+Patrick Wimmer,VfL Wolfsburg,169,23,1.82,right,Right Winger,Austria,Bundesliga,3,2027,149,20,28,TRUE,15,1,0,8801,440,15000000
+Jonas Wind,VfL Wolfsburg,169,25,1.9,right,Centre-Forward,Denmark,Bundesliga,3,2026,237,97,36,TRUE,31,8,2,17312,178,20000000
+Mohamed Amoura,VfL Wolfsburg,169,24,1.7,right,Centre-Forward,Algeria,Bundesliga,3,2025,156,57,20,TRUE,27,6,2,8009,141,16000000
+Tiago Tomás,VfL Wolfsburg,169,22,1.8,right,Centre-Forward,Portugal,Bundesliga,3,2027,148,23,12,TRUE,14,2,4,7048,306,6000000
+Lukas Nmecha,VfL Wolfsburg,169,25,1.85,right,Centre-Forward,Germany,Bundesliga,3,2025,231,90,21,TRUE,7,0,6,14472,161,5000000
+Kevin Behrens,VfL Wolfsburg,169,33,1.85,right,Centre-Forward,Germany,Bundesliga,3,2025,453,144,77,TRUE,1,0,4,30648,213,2000000
+Bartosz Bialek,VfL Wolfsburg,169,22,1.91,right,Centre-Forward,Poland,Bundesliga,3,2025,136,30,8,TRUE,10,4,0,6710,224,1000000
+Daniel-Kofi Kyereh,SC Freiburg,117,28,1.79,right,Attacking Midfield,Ghana,Bundesliga,3,2030,227,67,47,TRUE,18,0,1,16831,251,3500000
+Vincenzo Grifo,SC Freiburg,117,31,1.8,right,Left Winger,Italy,Bundesliga,3,2030,400,108,104,TRUE,9,4,1,29168,270,9000000
+Noah Weißhaupt,SC Freiburg,117,22,1.81,right,Left Winger,Germany,Bundesliga,3,2030,193,24,40,TRUE,6,0,1,11348,473,5000000
+Florent Muslija,SC Freiburg,117,26,1.72,right,Left Winger,Kosovo,Bundesliga,3,2028,279,53,32,TRUE,23,1,3,16611,313,2500000
+Ritsu Doan,SC Freiburg,117,26,1.72,left,Right Winger,Japan,Bundesliga,3,2030,298,64,38,TRUE,50,10,1,21348,334,18000000
+Roland Sallai,SC Freiburg,117,27,1.83,left,Right Winger,Hungary,Bundesliga,3,2025,277,41,36,TRUE,52,13,1,16465,402,15000000
+Eren Dinkci,SC Freiburg,117,22,1.88,right,Right Winger,Germany,Bundesliga,3,2030,117,45,22,TRUE,3,0,1,6751,150,12000000
+Maximilian Philipp,SC Freiburg,117,30,1.83,right,Second Striker,Germany,Bundesliga,3,2030,370,100,58,TRUE,10,0,3,22229,222,2000000
+Michael Gregoritsch,SC Freiburg,117,30,1.93,left,Centre-Forward,Austria,Bundesliga,3,2030,450,106,35,TRUE,59,16,1,25805,243,8000000
+Lucas Höler,SC Freiburg,117,30,1.84,right,Centre-Forward,Germany,Bundesliga,3,2030,388,86,46,FALSE,0,0,0,25940,302,4000000
+Junior Adamu,SC Freiburg,117,23,1.83,right,Centre-Forward,Austria,Bundesliga,3,2030,218,83,26,TRUE,6,0,8,12141,146,4000000
+Kevin Stöger,Bor. M'gladbach,152,30,1.75,left,Attacking Midfield,Austria,Bundesliga,3,2027,371,44,74,TRUE,0,0,0,25998,591,5000000
+Robin Hack,Bor. M'gladbach,152,25,1.78,right,Left Winger,Germany,Bundesliga,3,2027,264,85,48,TRUE,5,3,1,18520,218,8000000
+Yvandro Borges Sanches,Bor. M'gladbach,152,20,1.77,right,Left Winger,Luxembourg,Bundesliga,3,2026,60,8,12,TRUE,25,3,0,3428,429,1000000
+Franck Honorat,Bor. M'gladbach,152,27,1.8,right,Right Winger,France,Bundesliga,3,2028,291,41,56,TRUE,3,0,0,19635,479,12000000
+Nathan Ngoumou,Bor. M'gladbach,152,24,1.85,right,Right Winger,France,Bundesliga,3,2027,150,26,8,TRUE,9,0,1,8483,326,5000000
+Tomas Cvancara,Bor. M'gladbach,152,23,1.9,right,Centre-Forward,Czech Republic,Bundesliga,3,2028,184,67,14,TRUE,6,1,1,10431,156,8000000
+Alassane Plea,Bor. M'gladbach,152,31,1.81,right,Centre-Forward,France,Bundesliga,3,2025,367,104,72,TRUE,1,0,0,25862,249,7000000
+Tim Kleindienst,Bor. M'gladbach,152,28,1.94,right,Centre-Forward,Germany,Bundesliga,3,2028,339,125,37,TRUE,10,0,5,25064,201,6000000
+Grant-Leon Ranos,Bor. M'gladbach,152,21,1.8,right,Centre-Forward,Armenia,Bundesliga,3,2027,108,46,32,TRUE,11,4,0,6805,148,1000000
+Shio Fukuda,Bor. M'gladbach,152,20,1.78,right,Centre-Forward,Japan,Bundesliga,3,2026,34,14,7,TRUE,1,1,0,2148,153,300000
+Tom Bischof,TSG Hoffenheim,90,19,1.76,left,Attacking Midfield,Germany,Bundesliga,3,2025,77,20,18,TRUE,10,5,0,4478,224,3500000
+Julian Justvan,TSG Hoffenheim,90,26,1.77,left,Attacking Midfield,Germany,Bundesliga,3,2027,283,63,50,TRUE,7,1,1,19603,311,1500000
+Muhammed Damar,TSG Hoffenheim,90,20,1.85,left,Attacking Midfield,Germany,Bundesliga,3,2026,58,23,20,TRUE,2,1,1,4106,179,600000
+Jacob Bruun Larsen,TSG Hoffenheim,90,25,1.83,right,Left Winger,Denmark,Bundesliga,3,2025,231,57,42,TRUE,7,1,6,11570,203,8000000
+Marius Bülter,TSG Hoffenheim,90,31,1.88,right,Left Winger,Germany,Bundesliga,3,2026,377,92,60,FALSE,0,0,2,26219,285,2500000
+Maximilian Beier,TSG Hoffenheim,90,21,1.85,right,Centre-Forward,Germany,Bundesliga,3,2027,186,75,23,TRUE,2,0,1,12882,172,30000000
+Mergim Berisha,TSG Hoffenheim,90,26,1.88,right,Centre-Forward,Germany,Bundesliga,3,2027,267,105,45,TRUE,2,0,11,17561,167,10000000
+Andrej Kramaric,TSG Hoffenheim,90,33,1.77,right,Centre-Forward,Croatia,Bundesliga,3,2025,468,222,77,TRUE,96,29,11,33347,150,5000000
+Ihlas Bebou,TSG Hoffenheim,90,30,1.85,right,Centre-Forward,Togo,Bundesliga,3,2026,319,74,53,TRUE,38,1,1,22517,304,4000000
+Max Moerstedt,TSG Hoffenheim,90,18,1.94,right,Centre-Forward,Germany,Bundesliga,3,2027,64,55,17,TRUE,2,0,7,4741,86,1000000
+David Preu,Union Berlin,183,19,1.72,right,Left Winger,Germany,Bundesliga,3,2025,66,3,4,FALSE,0,0,1,2929,976,25000
+Tim Skarke,Union Berlin,183,27,1.81,right,Right Winger,Germany,Bundesliga,3,2030,196,26,14,TRUE,1,0,0,10675,411,3000000
+Yorbe Vertessen,Union Berlin,183,23,1.74,right,Centre-Forward,Belgium,Bundesliga,3,2028,206,69,22,TRUE,12,4,6,9508,138,5000000
+Kevin Volland,Union Berlin,183,32,1.79,left,Centre-Forward,Germany,Bundesliga,3,2026,559,173,116,TRUE,15,1,0,42676,247,4000000
+Benedict Hollerbach,Union Berlin,183,23,1.81,right,Centre-Forward,Germany,Bundesliga,3,2030,201,64,32,TRUE,2,1,2,11380,178,4000000
+Jordan,Union Berlin,183,28,1.91,right,Centre-Forward,United States,Bundesliga,3,2026,300,98,28,TRUE,9,1,4,16133,165,4000000
+Chris Bedia,Union Berlin,183,28,1.9,left,Centre-Forward,Cote d'Ivoire,Bundesliga,3,2027,258,61,15,TRUE,0,0,2,13483,221,2500000
+Ivan Prtajin,Union Berlin,183,28,1.89,right,Centre-Forward,Croatia,Bundesliga,3,2027,258,100,22,TRUE,2,0,0,17911,179,1800000
+Romano Schmid,Werder Bremen,101,24,1.68,right,Attacking Midfield,Austria,Bundesliga,3,2030,250,31,48,TRUE,15,1,2,17550,566,10000000
+Isak Hansen-Aarøen,Werder Bremen,101,19,1.73,right,Attacking Midfield,Norway,Bundesliga,3,2027,94,8,10,TRUE,9,3,0,6059,757,1500000
+Marco Grüll,Werder Bremen,101,26,1.82,right,Left Winger,Austria,Bundesliga,3,2030,314,127,72,TRUE,5,0,2,26076,205,4000000
+Abdenego Nankishi,Werder Bremen,101,22,1.78,left,Left Winger,Germany,Bundesliga,3,2030,96,28,16,TRUE,1,0,1,5683,203,450000
+Justin Njinmah,Werder Bremen,101,23,1.85,right,Right Winger,Germany,Bundesliga,3,2027,105,42,17,FALSE,0,0,0,6901,164,9000000
+Oliver Burke,Werder Bremen,101,27,1.88,right,Right Winger,Scotland,Bundesliga,3,2025,256,26,20,TRUE,13,1,2,11265,433,2000000
+Marvin Ducksch,Werder Bremen,101,30,1.88,right,Centre-Forward,Germany,Bundesliga,3,2026,423,211,99,TRUE,2,0,4,31458,149,9000000
+Keke Topp,Werder Bremen,101,20,1.92,right,Centre-Forward,Germany,Bundesliga,3,2028,75,36,11,TRUE,3,2,1,4648,129,3000000
+Dawid Kownacki,Werder Bremen,101,27,1.86,right,Centre-Forward,Poland,Bundesliga,3,2026,300,71,35,TRUE,7,1,5,14838,209,2000000
+Fredrik Jensen,FC Augsburg,180,26,1.83,right,Attacking Midfield,Finland,Bundesliga,3,2025,193,24,24,TRUE,30,8,0,11674,486,3500000
+Mert Kömür,FC Augsburg,180,19,1.83,right,Attacking Midfield,Germany,Bundesliga,3,2027,63,14,16,TRUE,9,4,0,4836,345,2000000
+Lukas Petkov,FC Augsburg,180,23,1.83,right,Attacking Midfield,Bulgaria,Bundesliga,3,2026,202,42,21,TRUE,5,0,0,11551,275,800000
+Rubén Vargas,FC Augsburg,180,25,1.79,right,Left Winger,Switzerland,Bundesliga,3,2025,253,52,33,TRUE,48,8,0,16214,312,9000000
+Nathanaël Mbuku,FC Augsburg,180,22,1.7,left,Left Winger,France,Bundesliga,3,2027,122,12,6,TRUE,1,1,0,6058,505,2000000
+Masaya Okugawa,FC Augsburg,180,28,1.77,left,Left Winger,Japan,Bundesliga,3,2026,261,52,39,TRUE,5,1,4,17693,340,1500000
+Yusuf Kabadayi,FC Augsburg,180,20,1.86,right,Left Winger,Germany,Bundesliga,3,2028,104,34,11,TRUE,7,0,0,6497,191,1000000
+Steve Mounié,FC Augsburg,180,29,1.9,right,Centre-Forward,Benin,Bundesliga,3,2027,304,78,23,TRUE,53,17,0,20176,259,6000000
+Phillip Tietz,FC Augsburg,180,27,1.9,right,Centre-Forward,Germany,Bundesliga,3,2027,310,98,52,TRUE,2,0,2,21174,216,5000000
+Samuel Essende,FC Augsburg,180,26,1.92,right,Centre-Forward,DR Congo,Bundesliga,3,2028,214,52,8,TRUE,2,0,0,11998,231,3500000
+Irvin Cardona,FC Augsburg,180,26,1.85,right,Centre-Forward,France,Bundesliga,3,2027,219,70,23,TRUE,5,1,1,13011,186,2500000
+Paul Nebel,1.FSV Mainz 05,73,21,1.69,right,Attacking Midfield,Germany,Bundesliga,3,2027,173,37,51,TRUE,3,0,0,12922,349,3500000
+Jae-sung Lee,1.FSV Mainz 05,73,31,1.8,left,Attacking Midfield,"Korea, South",Bundesliga,3,2026,384,71,80,TRUE,88,11,9,29742,419,2500000
+Marco Richter,1.FSV Mainz 05,73,26,1.76,right,Attacking Midfield,Germany,Bundesliga,3,2027,301,87,27,TRUE,8,3,1,18890,217,2000000
+Aymen Barkok,1.FSV Mainz 05,73,26,1.89,right,Attacking Midfield,Morocco,Bundesliga,3,2025,190,17,10,TRUE,18,1,3,9376,552,1000000
+Brajan Gruda,1.FSV Mainz 05,73,20,1.78,left,Right Winger,Germany,Bundesliga,3,2026,70,22,10,TRUE,7,1,1,4671,212,20000000
+Jonathan Burkardt,1.FSV Mainz 05,73,24,1.83,right,Centre-Forward,Germany,Bundesliga,3,2027,183,57,29,TRUE,20,10,1,12101,212,12000000
+Nelson Weiper,1.FSV Mainz 05,73,19,1.92,right,Centre-Forward,Germany,Bundesliga,3,2025,56,43,5,TRUE,3,0,2,3478,81,5000000
+Karim Onisiwo,1.FSV Mainz 05,73,32,1.88,right,Centre-Forward,Austria,Bundesliga,3,2026,381,89,68,TRUE,24,1,3,25551,287,1500000
+Dani de Wit,VfL Bochum,267,26,1.84,right,Attacking Midfield,Netherlands,Bundesliga,3,2028,330,84,37,TRUE,17,11,6,24801,295,5000000
+Moritz-Broni Kwarteng,VfL Bochum,267,26,1.75,right,Attacking Midfield,Germany,Bundesliga,3,2027,177,28,33,FALSE,0,0,2,11024,394,1200000
+Lukas Daschner,VfL Bochum,267,25,1.85,right,Attacking Midfield,Germany,Bundesliga,3,2026,215,48,19,FALSE,0,0,2,12753,266,1200000
+Gerrit Holtmann,VfL Bochum,267,29,1.85,left,Left Winger,Philippines,Bundesliga,3,2025,266,42,32,TRUE,2,1,1,15853,377,1000000
+Samuel Bamba,VfL Bochum,267,20,1.79,left,Right Winger,Germany,Bundesliga,3,2027,111,20,28,TRUE,5,0,1,6553,328,800000
+Moritz Broschinski,VfL Bochum,267,23,1.9,right,Centre-Forward,Germany,Bundesliga,3,2026,119,18,15,TRUE,1,0,3,5539,308,3000000
+Philipp Hofmann,VfL Bochum,267,31,1.95,left,Centre-Forward,Germany,Bundesliga,3,2026,460,163,42,TRUE,17,9,1,32107,197,1800000
+Paul Wanner,Heidenheim,116,18,1.85,left,Attacking Midfield,Germany,Bundesliga,3,2025,74,13,14,TRUE,3,2,2,4634,356,8000000
+Adrian Beck,Heidenheim,116,27,1.86,right,Attacking Midfield,Germany,Bundesliga,3,2025,275,60,50,FALSE,0,0,3,17871,298,1500000
+Denis Thomalla,Heidenheim,116,31,1.86,right,Attacking Midfield,Germany,Bundesliga,3,2025,429,97,43,TRUE,0,0,3,28420,293,750000
+Mathias Honsak,Heidenheim,116,27,1.88,left,Left Winger,Austria,Bundesliga,3,2027,257,39,28,TRUE,0,0,0,14142,363,1200000
+Léo Scienza,Heidenheim,116,25,1.75,left,Left Winger,Brazil,Bundesliga,3,2027,115,40,39,FALSE,0,0,2,7899,197,1000000
+Sirlord Conteh,Heidenheim,116,28,1.78,right,Right Winger,Germany,Bundesliga,3,2027,273,56,35,FALSE,0,0,2,15541,278,1000000
+Marvin Pieringer,Heidenheim,116,24,1.91,right,Centre-Forward,Germany,Bundesliga,3,2027,186,54,26,FALSE,0,0,2,11244,208,3000000
+Mikkel Kaufmann,Heidenheim,116,23,1.89,right,Centre-Forward,Denmark,Bundesliga,3,2028,178,41,16,TRUE,2,0,0,7984,195,2700000
+Maximilian Breunig,Heidenheim,116,23,1.95,left,Centre-Forward,Germany,Bundesliga,3,2027,131,46,3,TRUE,1,0,0,7216,157,800000
+Stefan Schimmer,Heidenheim,116,30,1.85,right,Centre-Forward,Germany,Bundesliga,3,2026,272,81,28,FALSE,0,0,1,12579,155,500000
+Connor Metcalfe,FC St. Pauli,583,24,1.83,left,Attacking Midfield,Australia,Bundesliga,3,2025,145,15,17,TRUE,23,0,3,9166,611,2500000
+Elias Saad,FC St. Pauli,583,24,1.85,right,Left Winger,Tunisia,Bundesliga,3,2030,147,60,26,TRUE,3,0,1,11290,188,3000000
+Oladapo Afolayan,FC St. Pauli,583,26,1.8,right,Right Winger,England,Bundesliga,3,2030,252,60,26,FALSE,0,0,2,16998,283,3000000
+Morgan Guilavogui,FC St. Pauli,583,26,1.89,right,Right Winger,Guinea,Bundesliga,3,2025,172,47,12,TRUE,21,2,0,9665,206,3000000
+Danel Sinani,FC St. Pauli,583,27,1.85,left,Right Winger,Luxembourg,Bundesliga,3,2030,283,76,57,TRUE,62,12,6,18619,245,500000
+Scott Banks,FC St. Pauli,583,22,1.83,left,Right Winger,Scotland,Bundesliga,3,2030,106,21,20,TRUE,7,0,1,6111,291,300000
+Johannes Eggestein,FC St. Pauli,583,26,1.83,right,Centre-Forward,Germany,Bundesliga,3,2030,291,128,38,TRUE,11,2,7,18678,146,2000000
+Simon Zoller,FC St. Pauli,583,33,1.79,right,Centre-Forward,Germany,Bundesliga,3,2030,384,120,46,FALSE,0,0,5,24067,201,350000
+Andreas Albers,FC St. Pauli,583,34,1.93,right,Centre-Forward,Denmark,Bundesliga,3,2030,465,142,31,FALSE,0,0,1,30996,218,300000
+Maurides,FC St. Pauli,583,30,1.89,left,Centre-Forward,Brazil,Bundesliga,3,2026,223,50,23,FALSE,0,0,1,13304,266,300000
+Steven Skrzybski,Holstein Kiel,700,31,1.74,right,Attacking Midfield,Germany,Bundesliga,3,2026,365,101,50,FALSE,0,0,0,24178,239,1300000
+Finn Porath,Holstein Kiel,700,27,1.8,right,Attacking Midfield,Germany,Bundesliga,3,2026,314,37,33,TRUE,14,0,1,18354,496,1000000
+Simakala,Holstein Kiel,700,27,1.8,right,Left Winger,Germany,Bundesliga,3,2025,337,109,56,TRUE,1,0,2,21477,197,550000
+Andu Kelati,Holstein Kiel,700,21,1.81,right,Left Winger,Germany,Bundesliga,3,2028,113,21,22,FALSE,0,0,0,8086,385,300000
+Alexander Bernhardsson,Holstein Kiel,700,25,1.85,left,Right Winger,Sweden,Bundesliga,3,2027,118,29,11,TRUE,1,0,0,5912,204,1500000
+Shuto Machino,Holstein Kiel,700,24,1.85,right,Centre-Forward,Japan,Bundesliga,3,2027,192,50,26,TRUE,5,3,1,12475,250,2000000
+Benedikt Pichler,Holstein Kiel,700,27,1.88,right,Centre-Forward,Austria,Bundesliga,3,2027,211,63,32,FALSE,0,0,0,14449,229,1500000
+Fiete Arp,Holstein Kiel,700,24,1.86,right,Centre-Forward,Germany,Bundesliga,3,2026,212,70,14,TRUE,5,2,4,11516,165,800000
+Phil Harres,Holstein Kiel,700,22,1.93,right,Centre-Forward,Germany,Bundesliga,3,2030,165,73,9,FALSE,0,0,2,9055,124,500000
+Carboni,Inter,3,19,1.85,left,Attacking Midfield,Argentina,Serie A,4,2028,87,14,14,TRUE,3,0,3,4476,320,15000000
+Kamate,Inter,3,19,1.86,left,Right Winger,France,Serie A,4,2026,116,22,12,FALSE,0,0,1,8349,380,1000000
+Correa,Inter,3,29,1.88,right,Second Striker,Argentina,Serie A,4,2025,380,64,41,TRUE,19,4,7,20883,326,6000000
+Lautaro Martínez,Inter,3,26,1.74,right,Centre-Forward,Argentina,Serie A,4,2026,344,156,49,TRUE,64,29,15,23420,150,110000000
+Marcus Thuram,Inter,3,26,1.92,right,Centre-Forward,France,Serie A,4,2028,296,78,49,TRUE,24,2,4,19520,250,65000000
+Mehdi Taremi,Inter,3,32,1.85,right,Centre-Forward,Iran,Serie A,4,2027,386,192,91,TRUE,86,49,16,28682,149,10000000
+Satriano,Inter,3,23,1.87,right,Centre-Forward,Uruguay,Serie A,4,2027,127,28,15,TRUE,1,0,1,7912,283,7000000
+Marko Arnautovic,Inter,3,35,1.9,right,Centre-Forward,Austria,Serie A,4,2025,507,136,72,TRUE,116,37,6,34075,251,4000000
+Salcedo,Inter,3,22,1.78,right,Centre-Forward,Italy,Serie A,4,2030,172,35,10,TRUE,2,0,0,8361,239,1000000
+Rafael Leão,AC Milan,23,25,1.88,right,Left Winger,Portugal,Serie A,4,2028,264,81,57,TRUE,31,4,6,17105,211,90000000
+Noah Okafor,AC Milan,23,24,1.85,right,Left Winger,Switzerland,Serie A,4,2028,256,62,35,TRUE,22,2,8,13305,215,20000000
+Traorè,AC Milan,23,19,1.75,right,Left Winger,Cote d'Ivoire,Serie A,4,2028,124,44,30,TRUE,0,0,0,7631,173,1500000
+Christian Pulisic,AC Milan,23,25,1.77,right,Right Winger,United States,Serie A,4,2027,347,74,69,TRUE,71,30,12,21295,288,40000000
+Samuel Chukwueze,AC Milan,23,25,1.72,left,Right Winger,Nigeria,Serie A,4,2028,260,44,36,TRUE,38,5,2,14840,337,20000000
+Saelemaekers,AC Milan,23,25,1.8,right,Right Winger,Belgium,Serie A,4,2026,242,16,28,TRUE,12,1,1,14412,901,12000000
+Álvaro Morata,AC Milan,23,31,1.89,right,Centre-Forward,Spain,Serie A,4,2028,589,216,82,TRUE,80,36,23,34356,159,16000000
+Luka Jović,AC Milan,23,26,1.82,right,Centre-Forward,Serbia,Serie A,4,2025,294,82,25,TRUE,38,11,9,14063,172,7000000
+Nasti,AC Milan,23,20,1.79,right,Centre-Forward,Italy,Serie A,4,2026,129,38,14,TRUE,2,1,0,8226,216,2500000
+Federico Chiesa,Juventus,22,26,1.75,right,Left Winger,Italy,Serie A,4,2025,324,77,53,TRUE,51,7,5,22720,295,35000000
+Aké,Juventus,22,23,1.78,right,Left Winger,France,Serie A,4,2025,153,26,17,TRUE,1,0,0,8489,327,1600000
+Kenan Yıldız,Juventus,22,19,1.87,right,Second Striker,Türkiye,Serie A,4,2027,104,27,17,TRUE,12,1,1,6071,225,30000000
+Dušan Vlahović,Juventus,22,24,1.9,left,Centre-Forward,Serbia,Serie A,4,2026,258,113,19,TRUE,30,13,7,16693,148,65000000
+Arkadiusz Milik,Juventus,22,30,1.86,left,Centre-Forward,Poland,Serie A,4,2026,402,161,39,TRUE,73,17,5,22788,142,6000000
+Gianluca Gaetano,SSC Napoli,55,24,1.83,right,Attacking Midfield,Italy,Serie A,4,2025,261,98,39,TRUE,3,1,1,16804,171,6000000
+Popovic,SSC Napoli,55,18,1.93,right,Attacking Midfield,Serbia,Serie A,4,2029,30,21,5,TRUE,10,0,1,2059,98,2000000
+Khvicha Kvaratskhelia,SSC Napoli,55,23,1.83,right,Left Winger,Georgia,Serie A,4,2027,205,47,50,TRUE,33,16,7,14336,305,80000000
+Zerbin,SSC Napoli,55,25,1.82,right,Left Winger,Italy,Serie A,4,2028,225,42,27,TRUE,1,0,1,13652,325,4000000
+Matteo Politano,SSC Napoli,55,30,1.71,left,Right Winger,Italy,Serie A,4,2027,535,94,63,TRUE,12,3,4,32275,343,13000000
+Cyril Ngonge,SSC Napoli,55,24,1.8,left,Right Winger,Belgium,Serie A,4,2028,155,40,14,TRUE,0,0,0,9240,231,12000000
+Giacomo Raspadori,SSC Napoli,55,24,1.72,right,Second Striker,Italy,Serie A,4,2028,258,73,25,TRUE,30,6,2,15567,213,25000000
+Victor Osimhen,SSC Napoli,55,25,1.86,right,Centre-Forward,Nigeria,Serie A,4,2026,223,114,28,TRUE,35,21,9,15961,140,100000000
+Giovanni Simeone,SSC Napoli,55,29,1.8,right,Centre-Forward,Argentina,Serie A,4,2026,363,99,27,TRUE,6,1,6,21778,220,10000000
+Walid Cheddira,SSC Napoli,55,26,1.87,right,Centre-Forward,Morocco,Serie A,4,2028,247,66,19,TRUE,6,0,2,17409,264,6000000
+Teun Koopmeiners,Atalanta BC,8,26,1.84,left,Attacking Midfield,Netherlands,Serie A,4,2027,336,76,32,TRUE,21,2,1,27157,357,50000000
+Charles De Ketelaere,Atalanta BC,8,23,1.92,left,Attacking Midfield,Belgium,Serie A,4,2027,223,43,33,TRUE,16,2,7,13800,321,34000000
+Zaniolo,Atalanta BC,8,25,1.9,left,Attacking Midfield,Italy,Serie A,4,2025,265,60,31,TRUE,19,2,3,16315,272,20000000
+Kovalenko,Atalanta BC,8,28,1.82,right,Attacking Midfield,Ukraine,Serie A,4,2025,280,41,22,TRUE,33,0,11,15100,368,1500000
+Ademola Lookman,Atalanta BC,8,26,1.74,right,Second Striker,Nigeria,Serie A,4,2026,278,67,36,TRUE,23,6,2,15932,238,40000000
+Gianluca Scamacca,Atalanta BC,8,25,1.95,right,Centre-Forward,Italy,Serie A,4,2027,244,82,15,TRUE,20,1,6,14015,171,35000000
+El Bilal Touré,Atalanta BC,8,22,1.85,right,Centre-Forward,Mali,Serie A,4,2027,109,21,8,TRUE,19,7,2,5168,246,20000000
+Lorenzo Pellegrini,AS Roma,28,28,1.86,right,Attacking Midfield,Italy,Serie A,4,2026,402,78,64,TRUE,34,6,1,29290,376,25000000
+Tommaso Baldanzi,AS Roma,28,21,1.7,left,Attacking Midfield,Italy,Serie A,4,2028,138,42,16,TRUE,3,1,2,9637,229,15000000
+Stephan El Shaarawy,AS Roma,28,31,1.78,right,Left Winger,Italy,Serie A,4,2025,507,124,60,TRUE,32,7,7,30513,246,5000000
+Matías Soulé,AS Roma,28,21,1.82,left,Right Winger,Argentina,Serie A,4,2029,136,24,16,TRUE,2,1,0,9298,387,25000000
+Costa,AS Roma,28,19,1.78,left,Right Winger,Portugal,Serie A,4,2030,94,13,11,TRUE,0,0,2,5310,408,1000000
+Paulo Dybala,AS Roma,28,30,1.77,left,Second Striker,Argentina,Serie A,4,2025,503,187,82,TRUE,38,3,16,34361,184,20000000
+Tammy Abraham,AS Roma,28,26,1.94,right,Centre-Forward,England,Serie A,4,2026,385,162,42,TRUE,11,3,5,25880,160,30000000
+Shomurodov,AS Roma,28,29,1.9,right,Centre-Forward,Uzbekistan,Serie A,4,2026,306,57,33,TRUE,73,40,1,16853,296,5000000
+Colpani,Fiorentina,44,25,1.84,left,Attacking Midfield,Italy,Serie A,4,2025,272,41,22,TRUE,0,0,2,16258,397,18000000
+Antonín Barák,Fiorentina,44,29,1.9,left,Attacking Midfield,Czech Republic,Serie A,4,2026,315,67,24,TRUE,44,10,1,20360,304,4500000
+Sabiri,Fiorentina,44,27,1.86,right,Attacking Midfield,Morocco,Serie A,4,2026,204,66,28,TRUE,11,2,0,13808,209,2200000
+Christian Kouamé,Fiorentina,44,26,1.85,right,Left Winger,Cote d'Ivoire,Serie A,4,2025,331,54,49,TRUE,30,3,2,19600,363,7500000
+Riccardo Sottil,Fiorentina,44,25,1.8,right,Left Winger,Italy,Serie A,4,2026,249,58,30,TRUE,12,3,1,14444,249,6000000
+Brekalo,Fiorentina,44,26,1.75,right,Left Winger,Croatia,Serie A,4,2026,262,39,32,TRUE,35,4,3,15556,399,3500000
+Nico González,Fiorentina,44,26,1.8,left,Right Winger,Argentina,Serie A,4,2028,251,72,31,TRUE,39,5,4,17083,237,35000000
+Jonathan Ikoné,Fiorentina,44,26,1.75,left,Right Winger,France,Serie A,4,2026,340,38,42,TRUE,4,1,5,20187,531,10000000
+Lucas Beltrán,Fiorentina,44,23,1.76,right,Centre-Forward,Argentina,Serie A,4,2028,170,39,13,TRUE,4,4,2,9264,238,16000000
+Kean,Fiorentina,44,24,1.83,right,Centre-Forward,Italy,Serie A,4,2029,284,90,11,TRUE,15,4,9,13027,145,14000000
+M'Bala Nzola,Fiorentina,44,27,1.85,left,Centre-Forward,Angola,Serie A,4,2027,258,68,23,TRUE,6,2,0,16983,250,7000000
+Lewis Ferguson,Bologna,24,24,1.81,right,Attacking Midfield,Scotland,Serie A,4,2027,251,50,34,TRUE,12,0,0,21683,434,24000000
+Jesper Karlsson,Bologna,24,26,1.79,right,Left Winger,Sweden,Serie A,4,2028,302,106,56,TRUE,14,5,1,21547,203,8000000
+Dan Ndoye,Bologna,24,23,1.84,right,Right Winger,Switzerland,Serie A,4,2027,279,61,28,TRUE,16,1,1,17244,283,22000000
+Riccardo Orsolini,Bologna,24,27,1.83,left,Right Winger,Italy,Serie A,4,2027,306,86,44,TRUE,7,2,2,19343,225,16000000
+Nicolò Cambiaghi,Bologna,24,23,1.73,right,Second Striker,Italy,Serie A,4,2029,207,34,20,TRUE,9,0,3,12755,375,7000000
+Dallinga,Bologna,24,23,1.9,right,Centre-Forward,Netherlands,Serie A,4,2028,205,108,20,TRUE,1,0,3,14868,138,18000000
+Santiago Castro,Bologna,24,19,1.79,right,Centre-Forward,Argentina,Serie A,4,2028,72,10,3,TRUE,13,2,0,2676,268,12000000
+Raimondo,Bologna,24,20,1.85,left,Centre-Forward,Italy,Serie A,4,2027,124,53,8,TRUE,5,3,0,8811,166,4500000
+Jens Odgaard,Bologna,24,25,1.88,left,Centre-Forward,Denmark,Serie A,4,2027,238,62,25,TRUE,5,2,2,15490,250,4500000
+van Hooijdonk,Bologna,24,24,1.9,right,Centre-Forward,Netherlands,Serie A,4,2025,209,92,9,TRUE,2,0,0,12618,137,4000000
+Fisayo Dele-Bashiru,Lazio,27,23,1.86,right,Attacking Midfield,Nigeria,Serie A,4,2025,194,21,14,TRUE,2,1,0,11664,555,2000000
+André Anderson,Lazio,27,24,1.8,right,Attacking Midfield,Italy,Serie A,4,2025,71,7,4,TRUE,5,1,1,2494,356,400000
+Mattia Zaccagni,Lazio,27,29,1.77,right,Left Winger,Italy,Serie A,4,2029,352,43,48,TRUE,8,1,1,23854,555,20000000
+Saná Fernandes,Lazio,27,18,1.65,right,Left Winger,Portugal,Serie A,4,2028,71,20,23,FALSE,0,0,1,5586,279,800000
+Gustav Isaksen,Lazio,27,23,1.81,right,Right Winger,Denmark,Serie A,4,2028,212,57,33,TRUE,1,0,4,12547,220,12000000
+Tijjani Noslin,Lazio,27,25,1.78,right,Right Winger,Netherlands,Serie A,4,2029,116,26,13,FALSE,0,0,0,7006,269,10000000
+Loum Tchaouna,Lazio,27,20,1.8,left,Right Winger,France,Serie A,4,2029,96,17,11,TRUE,8,3,1,5560,327,8000000
+Matteo Cancellieri,Lazio,27,22,1.8,left,Right Winger,Italy,Serie A,4,2027,139,44,17,TRUE,1,0,1,6716,153,4800000
+Pedro,Lazio,27,37,1.67,left,Right Winger,Spain,Serie A,4,2025,717,178,107,TRUE,65,17,26,41611,234,1000000
+Diego González,Lazio,27,21,1.77,left,Right Winger,Paraguay,Serie A,4,2025,82,28,6,TRUE,1,0,1,5389,192,1000000
+Taty Castellanos,Lazio,27,25,1.78,right,Centre-Forward,Argentina,Serie A,4,2028,248,84,33,TRUE,6,0,3,16893,201,15000000
+Nikola Vlašić,Torino,50,26,1.79,right,Attacking Midfield,Croatia,Serie A,4,2027,351,57,54,TRUE,56,8,1,26889,472,10000000
+Horváth,Torino,50,22,1.85,right,Attacking Midfield,Hungary,Serie A,4,2025,158,49,33,TRUE,2,0,1,10009,204,1200000
+Radonjic,Torino,50,28,1.85,right,Left Winger,Serbia,Serie A,4,2025,222,33,24,TRUE,44,5,1,10256,311,2800000
+Karamoh,Torino,50,26,1.84,right,Left Winger,France,Serie A,4,2025,238,35,13,TRUE,4,1,0,11616,332,2500000
+Seck,Torino,50,23,1.9,left,Right Winger,Senegal,Serie A,4,2025,140,16,7,TRUE,1,0,0,7615,476,2000000
+Savva,Torino,50,18,1.91,left,Right Winger,Cyprus,Serie A,4,2026,70,18,16,TRUE,6,1,0,4588,255,1000000
+Ché Adams,Torino,50,28,1.79,right,Centre-Forward,Scotland,Serie A,4,2027,370,102,38,TRUE,33,6,1,23394,229,15000000
+Duván Zapata,Torino,50,33,1.88,right,Centre-Forward,Colombia,Serie A,4,2026,457,168,68,TRUE,34,4,3,30609,182,8000000
+Antonio Sanabria,Torino,50,28,1.8,right,Centre-Forward,Paraguay,Serie A,4,2026,299,84,18,TRUE,32,3,1,19209,229,7000000
+Pietro Pellegri,Torino,50,23,1.89,right,Centre-Forward,Italy,Serie A,4,2025,134,19,3,TRUE,1,0,1,4712,248,3000000
+Ruslan Malinovskyi,Genoa,87,31,1.81,left,Attacking Midfield,Ukraine,Serie A,4,2027,407,80,71,TRUE,64,7,1,24471,306,8000000
+Papadopoulos,Genoa,87,19,1.88,left,Attacking Midfield,Greece,Serie A,4,2026,54,19,6,FALSE,0,0,0,3615,190,800000
+Junior Messias,Genoa,87,33,1.74,left,Right Winger,Brazil,Serie A,4,2025,251,53,21,FALSE,0,0,1,18133,342,2500000
+Fini,Genoa,87,18,1.78,left,Right Winger,Italy,Serie A,4,2030,96,38,30,TRUE,4,1,1,6476,170,1000000
+Albert Gudmundsson,Genoa,87,27,1.77,right,Second Striker,Iceland,Serie A,4,2027,304,97,45,TRUE,37,10,1,20646,213,30000000
+Mateo Retegui,Genoa,87,25,1.86,right,Centre-Forward,Italy,Serie A,4,2027,192,56,11,TRUE,12,4,2,11731,209,16000000
+Vitinha,Genoa,87,24,1.78,right,Centre-Forward,Portugal,Serie A,4,2028,162,50,14,TRUE,10,4,2,8842,177,14000000
+David Ankeye,Genoa,87,22,1.91,right,Centre-Forward,Nigeria,Serie A,4,2028,56,15,2,FALSE,0,0,0,2692,179,2000000
+Yalçın,Genoa,87,25,1.84,right,Centre-Forward,Türkiye,Serie A,4,2026,277,70,25,TRUE,3,0,4,14910,213,1700000
+Pușcaș,Genoa,87,28,1.88,right,Centre-Forward,Romania,Serie A,4,2026,330,96,13,TRUE,44,11,2,18692,195,1500000
+Caleb Ekuban,Genoa,87,30,1.82,right,Centre-Forward,Ghana,Serie A,4,2026,383,80,38,TRUE,13,3,2,24690,309,1500000
+Favilli,Genoa,87,27,1.91,right,Centre-Forward,Italy,Serie A,4,2025,207,60,16,TRUE,9,1,2,12639,211,400000
+Florian Thauvin,Udinese Calcio,138,31,1.81,left,Right Winger,France,Serie A,4,2025,436,111,78,TRUE,10,1,3,28710,259,3000000
+Lorenzo Lucca,Udinese Calcio,138,23,2.01,right,Centre-Forward,Italy,Serie A,4,2028,164,55,16,TRUE,0,0,1,9850,179,12000000
+Brenner,Udinese Calcio,138,24,1.75,right,Centre-Forward,Brazil,Serie A,4,2028,160,53,11,TRUE,0,0,2,10096,190,7000000
+Keinan Davis,Udinese Calcio,138,26,1.89,left,Centre-Forward,England,Serie A,4,2027,186,29,21,TRUE,3,2,0,9693,334,3000000
+Isaac Success,Udinese Calcio,138,28,1.82,right,Centre-Forward,Nigeria,Serie A,4,2025,240,28,32,TRUE,4,0,2,11962,427,2500000
+Gerard Deulofeu,Udinese Calcio,138,30,1.77,right,Centre-Forward,Spain,Serie A,4,2026,350,79,69,TRUE,4,1,7,21332,270,1000000
+Bravo,Udinese Calcio,138,19,1.82,right,Centre-Forward,Spain,Serie A,4,2028,55,19,8,TRUE,15,2,2,3115,164,500000
+Semedo,Udinese Calcio,138,19,1.92,right,Centre-Forward,Portugal,Serie A,4,2025,43,5,1,TRUE,4,2,0,2805,561,500000
+Diawara,Udinese Calcio,138,20,1.87,right,Centre-Forward,Belgium,Serie A,4,2027,33,11,1,TRUE,2,0,1,1736,158,250000
+Marchwinski,Lecce,228,22,1.87,right,Attacking Midfield,Poland,Serie A,4,2028,213,35,14,TRUE,22,1,2,10304,294,6000000
+Rémi Oudin,Lecce,228,27,1.86,left,Attacking Midfield,France,Serie A,4,2026,275,54,29,FALSE,0,0,0,17032,315,3500000
+Lameck Banda,Lecce,228,23,1.69,right,Left Winger,Zambia,Serie A,4,2026,138,17,11,TRUE,8,2,0,8176,481,6000000
+Morente,Lecce,228,27,1.84,right,Left Winger,Spain,Serie A,4,2027,255,27,21,FALSE,0,0,0,17045,631,2500000
+Nicola Sansone,Lecce,228,32,1.74,right,Left Winger,Italy,Serie A,4,2025,479,98,56,TRUE,3,0,1,28793,294,1000000
+Listkowski,Lecce,228,26,1.78,right,Left Winger,Poland,Serie A,4,2025,230,15,11,TRUE,8,0,1,11761,784,200000
+Santiago Pierotti,Lecce,228,23,1.89,right,Right Winger,Argentina,Serie A,4,2027,128,10,5,TRUE,0,0,1,5548,555,2500000
+Jeppe Corfitzen,Lecce,228,19,1.79,right,Right Winger,Denmark,Serie A,4,2025,78,25,9,TRUE,2,0,1,4769,191,400000
+Salomaa,Lecce,228,21,1.9,right,Right Winger,Finland,Serie A,4,2030,89,10,10,TRUE,8,1,1,5682,568,100000
+Daka,Lecce,228,20,1.73,right,Right Winger,Albania,Serie A,4,2030,106,21,9,TRUE,4,2,1,6653,317,75000
+Rodríguez,Lecce,228,22,1.78,right,Second Striker,Spain,Serie A,4,2025,126,20,14,FALSE,0,0,2,5717,286,1600000
+Nikola Krstovic,Lecce,228,24,1.85,right,Centre-Forward,Montenegro,Serie A,4,2027,233,90,12,TRUE,18,3,7,15632,174,6000000
+Rareș Burnete,Lecce,228,20,1.85,right,Centre-Forward,Romania,Serie A,4,2029,107,37,11,TRUE,0,0,2,7699,208,700000
+Voelkerling Persson,Lecce,228,21,1.94,right,Centre-Forward,Sweden,Serie A,4,2027,80,25,9,TRUE,4,0,0,4035,161,400000
+Adrian Benedyczak,Parma,754,23,1.91,right,Left Winger,Poland,Serie A,4,2028,229,68,16,TRUE,0,0,1,12965,191,6000000
+Valentin Mihăilă,Parma,754,24,1.8,right,Left Winger,Romania,Serie A,4,2027,161,25,22,TRUE,24,4,2,9096,364,2800000
+Tjas Begic,Parma,754,21,1.75,right,Left Winger,Slovenia,Serie A,4,2027,114,10,8,TRUE,12,1,1,5710,571,900000
+Dennis Man,Parma,754,25,1.83,left,Right Winger,Romania,Serie A,4,2027,293,90,45,TRUE,28,7,3,20033,223,10000000
+Anthony Partipilo,Parma,754,29,1.81,left,Right Winger,Italy,Serie A,4,2027,367,97,48,FALSE,0,0,4,25216,260,1200000
+Anas Haj Mohamed,Parma,754,19,1.74,right,Right Winger,Tunisia,Serie A,4,2026,97,42,21,TRUE,0,0,1,7282,173,200000
+Kowalski,Parma,754,19,1.97,right,Second Striker,Poland,Serie A,4,2030,78,23,6,TRUE,9,1,0,3995,174,300000
+Ange-Yoan Bonny,Parma,754,20,1.89,right,Centre-Forward,France,Serie A,4,2027,94,10,11,TRUE,2,0,1,3996,400,8000000
+Antonio Colak,Parma,754,30,1.88,right,Centre-Forward,Croatia,Serie A,4,2026,427,172,44,TRUE,3,0,7,25464,148,2200000
+Gabriel Charpentier,Parma,754,25,1.88,right,Centre-Forward,Congo,Serie A,4,2026,97,26,7,TRUE,3,1,1,4647,179,1600000
+Simone Verdi,Como,900,32,1.74,right,Attacking Midfield,Italy,Serie A,4,2025,424,76,50,TRUE,4,0,1,24807,326,2500000
+Moutir Chajia,Como,900,26,1.81,right,Attacking Midfield,Belgium,Serie A,4,2025,161,12,12,FALSE,0,0,0,7602,634,450000
+Naj Razi,Como,900,17,1.75,right,Attacking Midfield,Ireland,Serie A,4,2026,20,2,1,TRUE,3,0,1,1242,621,300000
+Lucas Da Cunha,Como,900,23,1.74,left,Left Winger,France,Serie A,4,2026,133,25,10,TRUE,0,0,0,7427,297,6500000
+Jasim,Como,900,20,1.78,right,Left Winger,Iraq,Serie A,4,2027,5,4,0,TRUE,13,2,1,442,111,450000
+Gabriel Strefezza,Como,900,27,1.68,right,Right Winger,Brazil,Serie A,4,2027,261,46,28,FALSE,0,0,2,17490,380,6000000
+Liam Kerrigan,Como,900,24,1.71,right,Right Winger,Ireland,Serie A,4,2025,129,26,26,TRUE,3,1,0,9101,350,175000
+Belotti,Como,900,30,1.81,right,Centre-Forward,Italy,Serie A,4,2026,483,172,42,TRUE,44,12,2,33698,196,5000000
+Patrick Cutrone,Como,900,26,1.83,right,Centre-Forward,Italy,Serie A,4,2028,329,108,30,TRUE,1,0,0,19120,177,5000000
+Nicholas Gioacchini,Como,900,24,1.83,right,Centre-Forward,United States,Serie A,4,2027,170,31,7,TRUE,8,3,2,8869,286,2400000
+Cerri,Como,900,28,1.94,right,Centre-Forward,Italy,Serie A,4,2026,290,77,31,TRUE,20,2,4,15699,204,1700000
+Alessandro Gabrielloni,Como,900,30,1.78,right,Centre-Forward,Italy,Serie A,4,2027,394,109,20,FALSE,0,0,1,24312,223,1000000
+Daniel Maldini,Monza,148,22,1.88,right,Attacking Midfield,Italy,Serie A,4,2026,131,40,6,TRUE,3,1,2,6314,158,4500000
+Samuele Vignato,Monza,148,20,1.72,right,Attacking Midfield,Italy,Serie A,4,2025,71,22,15,TRUE,16,7,1,3834,174,3500000
+Forson,Monza,148,20,1.79,left,Right Winger,England,Serie A,4,2028,92,27,20,TRUE,2,0,1,5558,206,2000000
+D'Alessandro,Monza,148,33,1.73,right,Right Winger,Italy,Serie A,4,2025,455,33,37,TRUE,8,0,0,24926,755,500000
+Marras,Monza,148,20,1.83,right,Right Winger,Italy,Serie A,4,2030,97,22,9,FALSE,0,0,0,5620,255,150000
+Gianluca Caprari,Monza,148,31,1.71,right,Second Striker,Italy,Serie A,4,2026,410,90,40,TRUE,1,0,3,25740,286,4000000
+Dany Mota,Monza,148,26,1.8,right,Centre-Forward,Portugal,Serie A,4,2027,279,85,40,TRUE,0,0,2,19608,231,5000000
+Petagna,Monza,148,29,1.9,left,Centre-Forward,Italy,Serie A,4,2026,388,84,40,TRUE,1,0,1,23340,278,3800000
+Milan Djuric,Monza,148,34,1.99,right,Centre-Forward,Bosnia-Herzegovina,Serie A,4,2025,509,95,38,TRUE,15,7,1,31340,330,1500000
+Diaw,Monza,148,32,1.91,right,Centre-Forward,Italy,Serie A,4,2025,251,77,21,FALSE,0,0,1,16503,214,900000
+Maric,Monza,148,29,1.88,left,Centre-Forward,Croatia,Serie A,4,2026,374,117,40,TRUE,2,0,4,23265,199,800000
+Pereiro,Cagliari Calcio,237,29,1.88,left,Attacking Midfield,Uruguay,Serie A,4,2025,315,79,38,TRUE,13,5,5,17225,218,1000000
+Delpupo,Cagliari Calcio,237,21,1.76,left,Attacking Midfield,Argentina,Serie A,4,2025,102,15,7,TRUE,0,0,0,5701,380,700000
+Felici,Cagliari Calcio,237,23,1.82,right,Left Winger,Italy,Serie A,4,2027,130,21,15,FALSE,0,0,0,8539,407,500000
+Zito Luvumbo,Cagliari Calcio,237,22,1.71,left,Centre-Forward,Angola,Serie A,4,2027,122,25,19,TRUE,8,0,0,7291,292,7500000
+Piccoli,Cagliari Calcio,237,23,1.9,right,Centre-Forward,Italy,Serie A,4,2025,161,54,5,TRUE,4,1,5,7810,145,4000000
+Gianluca Lapadula,Cagliari Calcio,237,34,1.78,left,Centre-Forward,Peru,Serie A,4,2026,457,186,44,TRUE,36,10,6,31353,169,1500000
+Kingstone Mutandwa,Cagliari Calcio,237,21,1.8,right,Centre-Forward,Zambia,Serie A,4,2027,23,6,1,TRUE,1,0,0,1341,224,1000000
+Leonardo Pavoletti,Cagliari Calcio,237,35,1.88,right,Centre-Forward,Italy,Serie A,4,2026,450,145,25,TRUE,1,1,1,27940,193,800000
+Tomas Suslov,Hellas Verona,186,22,1.74,left,Attacking Midfield,Slovakia,Serie A,4,2027,181,22,20,TRUE,32,3,1,12281,558,7000000
+Kastanos,Hellas Verona,186,26,1.79,left,Attacking Midfield,Cyprus,Serie A,4,2025,264,27,17,TRUE,54,6,2,16562,613,1800000
+Praszelik,Hellas Verona,186,23,1.84,right,Attacking Midfield,Poland,Serie A,4,2026,176,21,18,TRUE,5,1,2,10945,521,900000
+Hrustić,Hellas Verona,186,28,1.8,left,Attacking Midfield,Australia,Serie A,4,2026,202,23,11,TRUE,27,4,1,12012,522,600000
+Stefan Mitrović,Hellas Verona,186,21,1.82,right,Left Winger,Serbia,Serie A,4,2028,148,25,7,TRUE,16,5,4,9132,365,1800000
+Braaf,Hellas Verona,186,21,1.81,right,Left Winger,Netherlands,Serie A,4,2026,68,16,4,TRUE,3,2,1,4048,253,800000
+Elayis Tavsan,Hellas Verona,186,23,1.83,left,Right Winger,Netherlands,Serie A,4,2028,180,45,22,TRUE,10,4,1,13353,297,1000000
+Rocha Livramento,Hellas Verona,186,23,1.85,right,Centre-Forward,Cape Verde,Serie A,4,2028,107,40,6,TRUE,4,0,0,5374,134,500000
+Juan Manuel Cruz,Hellas Verona,186,25,1.85,right,Centre-Forward,Argentina,Serie A,4,2027,78,11,2,FALSE,0,0,0,3731,339,450000
+Flakus Bosilj,Hellas Verona,186,22,1.85,right,Centre-Forward,Slovenia,Serie A,4,2025,165,28,13,TRUE,13,4,0,10008,357,400000
+Ajayi,Hellas Verona,186,19,1.83,right,Centre-Forward,Cote d'Ivoire,Serie A,4,2030,38,6,7,FALSE,0,0,1,2073,346,150000
+Emmanuel Gyasi,FC Empoli,167,30,1.81,right,Left Winger,Ghana,Serie A,4,2025,394,59,37,TRUE,3,0,0,28534,484,1800000
+Ekong,FC Empoli,167,22,1.81,right,Right Winger,Sweden,Serie A,4,2027,121,27,9,TRUE,2,0,1,6244,231,500000
+Colombo,FC Empoli,167,22,1.83,left,Centre-Forward,Italy,Serie A,4,2025,158,41,5,TRUE,20,4,0,8085,197,6000000
+Esposito,FC Empoli,167,22,1.83,right,Centre-Forward,Italy,Serie A,4,2025,203,68,23,TRUE,11,0,3,10429,153,5000000
+Stiven Shpendi,FC Empoli,167,21,1.81,right,Centre-Forward,Albania,Serie A,4,2025,70,37,10,TRUE,13,5,2,4466,121,2000000
+Francesco Caputo,FC Empoli,167,36,1.81,right,Centre-Forward,Italy,Serie A,4,2025,553,201,61,TRUE,2,1,3,41807,208,1000000
+Herculano Nabian,FC Empoli,167,20,1.82,right,Centre-Forward,Portugal,Serie A,4,2027,78,15,10,TRUE,5,1,0,4842,323,450000
+Oristanio,Venezia,552,21,1.74,left,Attacking Midfield,Italy,Serie A,4,2029,148,25,11,TRUE,7,0,2,8454,338,4000000
+El Haddad,Venezia,552,19,1.75,left,Attacking Midfield,Morocco,Serie A,4,2027,72,24,4,TRUE,1,0,0,5027,209,125000
+Bjarki Bjarkason,Venezia,552,24,1.8,right,Left Winger,Iceland,Serie A,4,2027,144,18,3,TRUE,4,0,0,6617,368,800000
+Ascione,Venezia,552,19,1.76,right,Left Winger,Italy,Serie A,4,2027,39,6,2,FALSE,0,0,0,3200,533,150000
+Nicholas Pierini,Venezia,552,25,1.76,right,Right Winger,Italy,Serie A,4,2026,278,82,27,TRUE,3,0,1,15974,195,1700000
+Joel Pohjanpalo,Venezia,552,29,1.86,right,Centre-Forward,Finland,Serie A,4,2027,323,122,25,TRUE,72,15,5,19721,162,5500000
+Redan,Venezia,552,23,1.76,right,Centre-Forward,Suriname,Serie A,4,2026,198,74,18,TRUE,0,0,3,12596,170,800000
+Christian Gytkjaer,Venezia,552,34,1.85,right,Centre-Forward,Denmark,Serie A,4,2025,489,202,35,TRUE,9,5,7,32608,161,700000
+Magnús Karlsson,Venezia,552,27,1.9,left,Centre-Forward,Iceland,Serie A,4,2025,213,75,9,TRUE,11,2,1,12820,171,200000
+Simons,Paris SG,11,21,1.79,right,Attacking Midfield,Netherlands,Ligue 1,5,2027,142,52,42,TRUE,20,2,7,10527,202,80000000
+Kang-in Lee,Paris SG,11,23,1.73,left,Attacking Midfield,"Korea, South",Ligue 1,5,2028,200,20,21,TRUE,29,9,5,11060,553,25000000
+Gharbi,Paris SG,11,20,1.73,right,Attacking Midfield,Spain,Ligue 1,5,2025,84,34,19,TRUE,6,1,2,5531,163,7500000
+Senny Mayulu,Paris SG,11,18,1.83,right,Attacking Midfield,France,Ligue 1,5,2027,39,9,9,TRUE,8,2,3,2495,277,5000000
+Bradley Barcola,Paris SG,11,21,1.82,right,Left Winger,France,Ligue 1,5,2028,124,20,27,TRUE,5,0,3,7155,358,50000000
+Ousmane Dembélé,Paris SG,11,27,1.78,right,Right Winger,France,Ligue 1,5,2028,306,68,84,TRUE,49,5,13,19395,285,60000000
+Marco Asensio,Paris SG,11,28,1.82,left,Right Winger,Spain,Ligue 1,5,2026,410,77,63,TRUE,38,2,22,22897,297,20000000
+Gonçalo Ramos,Paris SG,11,23,1.85,right,Centre-Forward,Portugal,Ligue 1,5,2028,201,82,23,TRUE,14,8,9,11995,146,50000000
+Randal Kolo Muani,Paris SG,11,25,1.87,right,Centre-Forward,France,Ligue 1,5,2028,231,74,48,TRUE,22,5,5,16539,224,45000000
+Aleksandr Golovin,Monaco,34,28,1.78,right,Attacking Midfield,Russia,Ligue 1,5,2026,362,49,55,TRUE,48,6,3,25293,516,30000000
+Maghnes Akliouche,Monaco,34,22,1.83,left,Attacking Midfield,France,Ligue 1,5,2028,72,12,8,TRUE,2,0,0,3641,303,25000000
+Eliesse Ben Seghir,Monaco,34,19,1.78,right,Attacking Midfield,Morocco,Ligue 1,5,2027,42,9,6,TRUE,4,1,0,2005,223,15000000
+Félix Lemaréchal,Monaco,34,20,1.8,right,Attacking Midfield,France,Ligue 1,5,2027,67,4,7,TRUE,2,0,0,4192,148,5000000
+Takumi Minamino,Monaco,34,29,1.72,right,Left Winger,Japan,Ligue 1,5,2026,405,107,64,TRUE,59,21,14,24031,225,20000000
+Krépin Diatta,Monaco,34,25,1.75,right,Right Winger,Senegal,Ligue 1,5,2025,219,36,27,TRUE,42,2,4,13913,386,12000000
+Folarin Balogun,Monaco,34,23,1.78,right,Centre-Forward,United States,Ligue 1,5,2028,205,110,32,TRUE,15,5,1,14085,128,30000000
+Breel Embolo,Monaco,34,27,1.87,right,Centre-Forward,Switzerland,Ligue 1,5,2026,335,90,55,TRUE,68,15,3,19992,222,12000000
+George Ilenikhena,Monaco,34,17,1.85,left,Centre-Forward,France,Ligue 1,5,2030,84,33,1,FALSE,0,0,1,3485,106,10000000
+Myron Boadu,Monaco,34,23,1.81,right,Centre-Forward,Netherlands,Ligue 1,5,2026,193,66,21,TRUE,1,1,0,11077,168,5000000
+Rayan Cherki,Olympique Lyon,65,20,1.8,right,Attacking Midfield,France,Ligue 1,5,2025,165,28,27,TRUE,2,0,0,8151,291,25000000
+Saïd Benrahma,Olympique Lyon,65,28,1.72,right,Left Winger,Algeria,Ligue 1,5,2027,354,79,62,TRUE,28,2,1,21751,275,20000000
+Malick Fofana,Olympique Lyon,65,19,1.69,right,Left Winger,Belgium,Ligue 1,5,2028,98,13,11,TRUE,8,0,0,5036,387,15000000
+Ernest Nuamah,Olympique Lyon,65,20,1.78,left,Right Winger,Ghana,Ligue 1,5,2028,87,24,7,TRUE,12,3,0,5750,240,18000000
+Georges Mikautadze,Olympique Lyon,65,23,1.76,right,Centre-Forward,Georgia,Ligue 1,5,2028,148,82,17,TRUE,29,13,4,12039,147,20000000
+Gift Orban,Olympique Lyon,65,22,1.78,right,Centre-Forward,Nigeria,Ligue 1,5,2028,92,54,9,TRUE,0,0,2,5806,108,15000000
+Alexandre Lacazette,Olympique Lyon,65,33,1.75,right,Centre-Forward,France,Ligue 1,5,2025,555,253,87,TRUE,2,1,8,39365,156,9000000
+Mama Baldé,Olympique Lyon,65,28,1.76,right,Centre-Forward,Guinea-Bissau,Ligue 1,5,2026,256,44,24,TRUE,29,5,1,17392,395,4000000
+Amin Sarr,Olympique Lyon,65,23,1.88,right,Centre-Forward,Sweden,Ligue 1,5,2027,113,22,10,TRUE,10,3,2,6493,295,4000000
+Amine Harit,Marseille,68,27,1.8,right,Attacking Midfield,Morocco,Ligue 1,5,2027,247,22,39,TRUE,24,1,1,16588,754,15000000
+Luis Henrique,Marseille,68,22,1.81,right,Left Winger,Brazil,Ligue 1,5,2025,163,10,15,FALSE,0,0,0,7433,743,8000000
+Ben Seghir,Marseille,68,21,1.77,right,Left Winger,France,Ligue 1,5,2025,79,9,3,TRUE,9,0,0,3979,442,400000
+Mason Greenwood,Marseille,68,22,1.81,right,Right Winger,England,Ligue 1,5,2029,212,89,30,TRUE,1,0,0,14196,160,25000000
+Sarr,Crystal Palace,68,26,1.85,right,Right Winger,Senegal,Premier League,1,2029,276,62,49,TRUE,64,13,2,20983,338,18000000
+Mughe,Marseille,68,20,1.73,right,Right Winger,Cameroon,Ligue 1,5,2028,33,5,0,TRUE,0,0,0,1628,326,800000
+Faris Moumbagna,Marseille,68,24,1.85,left,Centre-Forward,Cameroon,Ligue 1,5,2028,180,61,24,TRUE,9,0,1,10786,177,10000000
+Désiré Doué,Stade Rennais,94,19,1.81,left,Left Winger,France,Ligue 1,5,2026,90,9,8,TRUE,2,2,1,4689,521,30000000
+Amine Gouiri,Stade Rennais,94,24,1.81,right,Left Winger,Algeria,Ligue 1,5,2027,230,73,34,TRUE,6,1,1,15716,215,25000000
+Ibrahim Salah,Stade Rennais,94,22,1.86,right,Left Winger,Morocco,Ligue 1,5,2027,71,15,2,TRUE,9,0,1,2482,165,4000000
+Ludovic Blas,Stade Rennais,94,26,1.8,left,Right Winger,France,Ligue 1,5,2027,326,59,31,TRUE,14,1,3,22132,375,15000000
+Arnaud Kalimuendo,Stade Rennais,94,22,1.78,right,Centre-Forward,France,Ligue 1,5,2027,166,63,18,TRUE,1,1,4,10329,164,20000000
+Bertuğ Yıldırım,Stade Rennais,94,22,1.91,right,Centre-Forward,Türkiye,Ligue 1,5,2028,112,17,6,TRUE,3,2,0,3699,218,3500000
+Angel Gomes,LOSC Lille,47,23,1.68,right,Attacking Midfield,England,Ligue 1,5,2025,222,43,41,TRUE,18,0,3,16030,373,25000000
+Rémy Cabella,LOSC Lille,47,34,1.72,right,Attacking Midfield,France,Ligue 1,5,2025,456,90,67,TRUE,4,0,1,31542,350,3500000
+Hákon Arnar Haraldsson,LOSC Lille,47,21,1.8,right,Left Winger,Iceland,Ligue 1,5,2028,133,24,22,TRUE,19,3,3,8454,352,9000000
+Alan Virginius,LOSC Lille,47,21,1.8,right,Left Winger,France,Ligue 1,5,2027,102,14,7,TRUE,2,0,0,3898,278,3500000
+Edon Zhegrova,LOSC Lille,47,25,1.81,left,Right Winger,Kosovo,Ligue 1,5,2026,189,34,36,TRUE,34,4,2,10157,299,25000000
+Jonathan David,LOSC Lille,47,24,1.8,left,Centre-Forward,Canada,Ligue 1,5,2025,266,121,33,TRUE,54,28,4,19287,159,50000000
+Mohamed Bayo,LOSC Lille,47,26,1.88,right,Centre-Forward,Guinea,Ligue 1,5,2027,170,64,20,TRUE,26,7,1,10748,168,5000000
+Andrej Ilic,LOSC Lille,47,24,1.89,right,Centre-Forward,Serbia,Ligue 1,5,2027,168,65,22,TRUE,6,0,3,12057,185,3000000
+Trévis Dago,LOSC Lille,47,19,1.85,right,Centre-Forward,France,Ligue 1,5,2026,43,12,2,FALSE,0,0,0,2497,208,200000
+Jérémie Boga,OGC Nice,83,27,1.72,right,Left Winger,Cote d'Ivoire,Ligue 1,5,2027,332,49,35,TRUE,21,2,3,19552,399,15000000
+Sofiane Diop,OGC Nice,83,24,1.75,right,Left Winger,Morocco,Ligue 1,5,2027,183,24,15,TRUE,0,0,0,10707,446,12000000
+Brahimi,OGC Nice,83,24,1.83,left,Left Winger,Algeria,Ligue 1,5,2026,181,28,23,TRUE,4,0,0,9855,352,3000000
+Ilie,OGC Nice,83,21,1.85,right,Left Winger,Romania,Ligue 1,5,2027,109,13,17,TRUE,7,2,0,6032,464,3000000
+Aliou Baldé,OGC Nice,83,21,1.7,right,Left Winger,Guinea,Ligue 1,5,2028,65,16,8,TRUE,1,0,0,3443,215,800000
+Mohamed-Ali Cho,OGC Nice,83,20,1.82,left,Right Winger,France,Ligue 1,5,2028,116,8,8,TRUE,4,0,0,4590,574,10000000
+Bouanani,OGC Nice,83,19,1.77,left,Right Winger,Algeria,Ligue 1,5,2027,70,11,8,TRUE,5,0,0,3650,332,5000000
+Terem Moffi,OGC Nice,83,25,1.88,left,Centre-Forward,Nigeria,Ligue 1,5,2027,193,82,12,TRUE,18,4,0,14189,173,25000000
+Gaëtan Laborde,OGC Nice,83,30,1.81,left,Centre-Forward,France,Ligue 1,5,2026,391,125,43,TRUE,5,0,0,27973,224,10000000
+Evann Guessand,OGC Nice,83,23,1.88,right,Centre-Forward,Cote d'Ivoire,Ligue 1,5,2026,171,29,13,TRUE,1,0,0,8493,293,8000000
+David Pereira da Costa,Lens,74,23,1.68,right,Attacking Midfield,Portugal,Ligue 1,5,2026,132,11,16,TRUE,6,1,0,6854,623,8000000
+Angelo Fulgini,Lens,74,27,1.82,right,Attacking Midfield,France,Ligue 1,5,2027,323,38,24,TRUE,3,0,0,21134,556,7000000
+Adrien Thomasson,Lens,74,30,1.75,right,Attacking Midfield,France,Ligue 1,5,2026,381,61,46,FALSE,0,0,1,26621,436,5000000
+Ayanda Sishuba,Lens,74,19,1.69,right,Attacking Midfield,Belgium,Ligue 1,5,2026,72,19,2,TRUE,10,3,0,4847,255,500000
+Elye Wahi,Lens,74,21,1.81,right,Centre-Forward,France,Ligue 1,5,2028,141,47,13,TRUE,2,0,0,8172,174,35000000
+Wesley Saïd,Lens,74,29,1.71,right,Centre-Forward,France,Ligue 1,5,2026,260,54,15,TRUE,1,0,0,12911,239,4000000
+Florian Sotoca,Lens,74,33,1.87,right,Centre-Forward,France,Ligue 1,5,2026,294,70,37,FALSE,0,0,0,23547,336,3000000
+Labeau Lascary,Lens,74,21,1.85,right,Centre-Forward,Guadeloupe,Ligue 1,5,2026,104,23,7,FALSE,0,0,0,6406,279,1000000
+Doumbia,Stade Reims,178,21,1.7,right,Attacking Midfield,Mali,Ligue 1,5,2025,79,18,12,TRUE,19,8,0,4057,225,5000000
+Reda Khadra,Stade Reims,178,23,1.75,right,Attacking Midfield,Germany,Ligue 1,5,2027,167,16,23,TRUE,3,0,2,8534,533,3000000
+Mohamed Daramy,Stade Reims,178,22,1.8,right,Left Winger,Denmark,Ligue 1,5,2028,217,54,33,TRUE,10,1,5,13369,248,10000000
+Keito Nakamura,Stade Reims,178,24,1.8,right,Left Winger,Japan,Ligue 1,5,2028,196,60,20,TRUE,10,8,0,11232,187,9000000
+Mamadou Diakhon,Stade Reims,178,18,1.8,left,Left Winger,France,Ligue 1,5,2026,50,6,4,TRUE,8,1,0,2860,477,700000
+Junya Ito,Stade Reims,178,31,1.76,right,Right Winger,Japan,Ligue 1,5,2026,373,64,96,TRUE,54,13,3,29246,457,8000000
+Oumar Diakité,Stade Reims,178,20,1.82,right,Centre-Forward,Cote d'Ivoire,Ligue 1,5,2028,73,21,12,TRUE,15,2,1,5012,239,6000000
+Salama,Stade Reims,178,24,1.92,right,Centre-Forward,France,Ligue 1,5,2027,69,5,3,FALSE,0,0,0,3332,666,2000000
+Adama Bojang,Stade Reims,178,20,1.91,right,Centre-Forward,The Gambia,Ligue 1,5,2028,19,8,0,TRUE,1,0,0,767,96,500000
+Habib Diarra,R. Strasbourg,235,20,1.78,right,Attacking Midfield,Senegal,Ligue 1,5,2028,83,10,5,TRUE,4,0,0,5572,557,18000000
+Nordine Kandil,R. Strasbourg,235,22,1.67,left,Left Winger,Morocco,Ligue 1,5,2025,72,6,11,TRUE,2,0,0,3756,626,1000000
+Dany Jean,R. Strasbourg,235,21,1.7,left,Left Winger,Haiti,Ligue 1,5,2026,69,12,9,TRUE,6,1,0,4612,384,350000
+Aboubacar Ali Abdallah,R. Strasbourg,235,18,1.82,right,Left Winger,France,Ligue 1,5,2027,45,10,1,TRUE,2,0,0,2474,247,150000
+Dilane Bakwa,R. Strasbourg,235,21,1.8,left,Right Winger,France,Ligue 1,5,2027,109,12,19,TRUE,19,2,0,6711,559,10000000
+Jérémy Sebas,R. Strasbourg,235,21,1.87,right,Right Winger,Martinique,Ligue 1,5,2026,50,12,1,TRUE,5,0,0,2443,204,500000
+Emanuel Emegha,R. Strasbourg,235,21,1.95,right,Centre-Forward,Netherlands,Ligue 1,5,2028,129,36,10,TRUE,4,0,1,7522,209,12000000
+Milos Lukovic,R. Strasbourg,235,18,1.84,right,Centre-Forward,Serbia,Ligue 1,5,2028,120,49,7,TRUE,5,0,3,8970,183,5000000
+Moïse Sahi Dion,R. Strasbourg,235,22,1.75,left,Centre-Forward,Cote d'Ivoire,Ligue 1,5,2026,79,28,2,TRUE,1,1,0,3627,130,2000000
+Yann Gboho,Toulouse,162,23,1.78,right,Attacking Midfield,France,Ligue 1,5,2026,155,19,18,TRUE,3,0,1,8432,444,4000000
+Niklas Schmidt,Toulouse,162,26,1.84,right,Attacking Midfield,Germany,Ligue 1,5,2027,307,60,77,TRUE,8,3,2,19446,324,3000000
+Denis Genreau,Toulouse,162,25,1.75,right,Attacking Midfield,Australia,Ligue 1,5,2025,131,8,11,TRUE,5,0,2,7446,931,1500000
+César Gelabert,Toulouse,162,23,1.82,right,Attacking Midfield,Spain,Ligue 1,5,2027,117,7,10,TRUE,0,0,1,6296,899,1500000
+Naatan Skyttä,Toulouse,162,22,1.7,left,Attacking Midfield,Finland,Ligue 1,5,2025,106,23,7,TRUE,20,8,3,5648,246,400000
+Aron Dønnum,Toulouse,162,26,1.78,left,Right Winger,Norway,Ligue 1,5,2028,249,42,35,TRUE,7,1,0,17177,409,3500000
+Shavy Babicka,Toulouse,162,24,1.79,right,Right Winger,Gabon,Ligue 1,5,2027,105,17,22,TRUE,11,1,2,6423,378,2000000
+Bangré,Toulouse,162,23,1.71,left,Right Winger,Burkina Faso,Ligue 1,5,2025,105,20,10,TRUE,9,0,1,5107,255,800000
+Frank Magri,Toulouse,162,24,1.78,right,Centre-Forward,Cameroon,Ligue 1,5,2026,116,36,10,TRUE,9,2,0,7393,205,3000000
+Téji Savanier,Montpellier,147,32,1.72,right,Attacking Midfield,France,Ligue 1,5,2026,398,73,83,TRUE,1,0,0,30812,422,9000000
+Wahbi Khazri,Montpellier,147,33,1.76,right,Left Winger,Tunisia,Ligue 1,5,2025,490,107,61,TRUE,74,25,1,34053,318,1800000
+Arnaud Nordin,Montpellier,147,26,1.7,left,Right Winger,France,Ligue 1,5,2025,240,43,19,TRUE,1,0,0,13884,323,8000000
+Mousa Tamari,Montpellier,147,27,1.78,left,Right Winger,Jordan,Ligue 1,5,2026,201,34,24,TRUE,70,21,4,14817,436,8000000
+Tanguy Coulibaly,Montpellier,147,23,1.79,left,Right Winger,France,Ligue 1,5,2026,107,8,7,FALSE,0,0,0,4785,598,2000000
+Othmane Maamma,Montpellier,147,18,1.8,right,Right Winger,Morocco,Ligue 1,5,2027,41,11,2,TRUE,11,3,0,2749,250,300000
+Akor Adams,Montpellier,147,24,1.9,right,Centre-Forward,Nigeria,Ligue 1,5,2027,139,54,16,TRUE,2,0,0,8444,156,10000000
+Karamoko Dembélé,Stade Brestois,531,21,1.67,left,Attacking Midfield,England,Ligue 1,5,2026,75,10,14,TRUE,1,0,3,3470,347,900000
+Jérémy Le Douaron,Stade Brestois,531,26,1.89,left,Left Winger,France,Ligue 1,5,2027,183,38,12,FALSE,0,0,0,9670,254,5000000
+Mathias Pereira Lage,Stade Brestois,531,27,1.8,right,Left Winger,France,Ligue 1,5,2025,260,37,21,TRUE,3,0,0,15238,412,2500000
+Romain Del Castillo,Stade Brestois,531,28,1.72,left,Right Winger,France,Ligue 1,5,2027,273,31,54,TRUE,9,0,1,16047,518,10000000
+Ludovic Ajorque,Stade Brestois,531,30,1.96,left,Centre-Forward,France,Ligue 1,5,2025,318,92,28,FALSE,0,0,1,22429,244,3000000
+Florent Mollet,FC Nantes,448,32,1.75,right,Attacking Midfield,France,Ligue 1,5,2025,384,62,39,FALSE,0,0,0,25314,408,1800000
+Moses Simon,FC Nantes,448,29,1.68,right,Left Winger,Nigeria,Ligue 1,5,2026,365,68,61,TRUE,72,9,6,26023,383,12000000
+Stredair Appuah,FC Nantes,448,20,1.85,right,Left Winger,France,Ligue 1,5,2026,65,7,1,TRUE,0,0,0,4178,597,500000
+Sorba Thomas,FC Nantes,448,25,1.85,left,Right Winger,Wales,Ligue 1,5,2025,228,15,38,TRUE,8,0,0,16371,191,4200000
+Marcus Coco,FC Nantes,448,28,1.84,right,Right Winger,Guadeloupe,Ligue 1,5,2025,281,12,14,TRUE,4,0,1,14713,1226,1500000
+Mostafa Mohamed,FC Nantes,448,26,1.85,right,Centre-Forward,Egypt,Ligue 1,5,2027,260,77,22,TRUE,37,12,6,16492,214,10000000
+Matthis Abline,FC Nantes,448,21,1.82,right,Centre-Forward,France,Ligue 1,5,2028,101,21,9,TRUE,5,4,0,4579,218,6000000
+Ignatius Ganago,FC Nantes,448,25,1.76,right,Centre-Forward,Cameroon,Ligue 1,5,2027,177,35,10,TRUE,14,0,0,8330,238,3000000
+Tino Kadewere,FC Nantes,448,28,1.83,right,Centre-Forward,Zimbabwe,Ligue 1,5,2027,234,75,23,TRUE,19,3,2,13667,182,2500000
+Ismaïl Bouneb,Le Havre AC,419,18,1.82,right,Attacking Midfield,France,Ligue 1,5,2028,35,14,1,TRUE,2,0,0,2044,146,50000
+Antoine Joujou,Le Havre AC,419,21,1.89,right,Left Winger,France,Ligue 1,5,2026,84,18,3,TRUE,0,0,1,4150,231,1500000
+Issa Soumaré,Le Havre AC,419,23,1.82,right,Left Winger,Senegal,Ligue 1,5,2026,141,18,12,FALSE,0,0,0,9180,510,800000
+Kandet Diawara,Le Havre AC,419,24,1.8,right,Left Winger,Guinea,Ligue 1,5,2026,100,9,6,TRUE,2,2,0,5390,599,400000
+Josué Casimir,Le Havre AC,419,22,1.78,right,Right Winger,Guadeloupe,Ligue 1,5,2025,130,10,16,TRUE,3,3,1,8500,850,3000000
+Emmanuel Sabbi,Le Havre AC,419,26,1.78,right,Right Winger,United States,Ligue 1,5,2027,216,48,25,TRUE,1,0,1,14401,300,2500000
+Samuel Grandsir,Le Havre AC,419,27,1.7,right,Right Winger,France,Ligue 1,5,2025,272,27,24,TRUE,4,0,1,15765,584,1500000
+Nassim Chadli,Le Havre AC,419,23,1.81,left,Right Winger,Morocco,Ligue 1,5,2025,94,11,6,TRUE,2,1,1,5117,465,600000
+Andy Logbo,Le Havre AC,419,20,1.88,left,Centre-Forward,France,Ligue 1,5,2025,45,12,0,TRUE,3,2,1,2506,209,800000
+Yann Kitala,Le Havre AC,419,26,1.86,left,Centre-Forward,DR Congo,Ligue 1,5,2025,172,34,10,TRUE,1,0,2,8688,256,700000
+Steve Ngoura,Le Havre AC,419,19,1.93,right,Centre-Forward,France,Ligue 1,5,2026,88,31,2,TRUE,2,4,1,5119,165,400000
+Augustine Boakye,Saint-Étienne,524,23,1.78,left,Attacking Midfield,Ghana,Ligue 1,5,2028,121,30,25,TRUE,0,0,0,8083,269,3000000
+Antoine Gauthier,Saint-Étienne,524,20,1.75,left,Attacking Midfield,France,Ligue 1,5,2025,45,2,2,FALSE,0,0,0,3091,1546,50000
+Ben Old,Saint-Étienne,524,21,1.73,left,Left Winger,New Zealand,Ligue 1,5,2028,106,11,16,TRUE,4,0,0,6132,557,400000
+Zuriko Davitashvili,Saint-Étienne,524,23,1.75,right,Right Winger,Georgia,Ligue 1,5,2028,196,30,19,TRUE,39,6,0,13283,443,3000000
+Mathieu Cafaro,Saint-Étienne,524,27,1.75,right,Right Winger,France,Ligue 1,5,2025,195,29,25,FALSE,0,0,0,12910,445,2500000
+Ibrahim Sissoko,Saint-Étienne,524,28,1.92,right,Centre-Forward,Mali,Ligue 1,5,2026,200,69,12,TRUE,8,1,0,12666,184,2500000
+Ibrahima Wadji,Saint-Étienne,524,29,1.75,right,Centre-Forward,Senegal,Ligue 1,5,2025,181,64,12,TRUE,11,4,2,11819,185,1000000
+Kévin Danois,AJ Auxerre,495,20,1.67,right,Attacking Midfield,France,Ligue 1,5,2028,75,8,0,TRUE,5,2,0,4927,616,100000
+Mercier,AJ Auxerre,495,21,1.74,right,Left Winger,France,Ligue 1,5,2025,81,7,7,TRUE,0,0,0,4525,646,300000
+Gauthier Hein,AJ Auxerre,495,27,1.7,left,Right Winger,France,Ligue 1,5,2026,231,36,24,FALSE,0,0,3,14656,407,3000000
+Lassine Sinayoko,AJ Auxerre,495,24,1.86,right,Right Winger,Mali,Ligue 1,5,2025,135,26,14,TRUE,20,6,0,7786,299,2500000
+Eros Maddy,AJ Auxerre,495,23,1.77,right,Right Winger,Netherlands,Ligue 1,5,2026,143,6,21,TRUE,2,0,1,7333,1222,250000
+Florian Ayé,AJ Auxerre,495,27,1.84,right,Centre-Forward,France,Ligue 1,5,2026,265,71,21,TRUE,3,0,1,16516,233,1800000
+Ado Onaiwu,AJ Auxerre,495,28,1.8,right,Centre-Forward,Japan,Ligue 1,5,2026,336,96,30,TRUE,3,3,4,18016,188,1800000
+Theo Bair,AJ Auxerre,495,24,1.91,right,Centre-Forward,Canada,Ligue 1,5,2028,136,23,11,TRUE,3,1,0,6239,271,1000000
+Ousmane Camara,AJ Auxerre,495,22,1.84,left,Centre-Forward,Guinea,Ligue 1,5,2027,87,35,7,TRUE,1,0,0,5790,165,700000
+Himad Abdelli,Angers SCO,1251,24,1.85,right,Attacking Midfield,Algeria,Ligue 1,5,2026,191,23,14,TRUE,3,0,0,12440,541,4000000
+Farid El Melali,Angers SCO,1251,27,1.68,right,Left Winger,Algeria,Ligue 1,5,2025,153,19,13,TRUE,2,0,0,7562,398,1500000
+Sidiki Chérif,Angers SCO,1251,17,1.85,right,Left Winger,France,Ligue 1,5,2026,42,19,0,TRUE,0,0,0,2661,140,100000
+Allevinah,Angers SCO,1251,29,1.72,right,Right Winger,Gabon,Ligue 1,5,2027,209,27,17,TRUE,26,8,0,13481,499,2000000
+Zinedine Ferhat,Angers SCO,1251,31,1.8,right,Right Winger,Algeria,Ligue 1,5,2025,372,33,88,TRUE,13,0,3,28498,864,1500000
+Justin-Noël Kalumba,Angers SCO,1251,19,1.71,right,Right Winger,France,Ligue 1,5,2026,50,3,2,TRUE,0,0,0,3199,166,800000
+Loïs Diony,Angers SCO,1251,31,1.83,right,Centre-Forward,France,Ligue 1,5,2025,295,69,38,FALSE,0,0,1,18000,261,2000000
+Ibrahima Niane,Angers SCO,1251,25,1.87,right,Centre-Forward,Senegal,Ligue 1,5,2025,199,37,6,TRUE,14,6,0,9938,269,1000000
+Esteban Lepaul,Angers SCO,1251,24,1.77,right,Centre-Forward,France,Ligue 1,5,2027,128,48,6,FALSE,0,0,0,7372,154,800000
+Adrien Hunou,Angers SCO,1251,30,1.79,right,Centre-Forward,France,Ligue 1,5,2025,320,66,15,TRUE,12,2,1,17596,267,700000
+Guédé Nadje,Angers SCO,1251,20,1.84,right,Centre-Forward,France,Ligue 1,5,2026,43,11,1,FALSE,0,0,0,2764,251,50000
