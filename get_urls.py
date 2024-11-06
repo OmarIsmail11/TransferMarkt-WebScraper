@@ -19,13 +19,9 @@ def get_team_urls(leagues_urls):
         soup = BeautifulSoup(html.content, 'html.parser')
         teams_table = soup.find('table', class_='items')
         for row in teams_table.find_all('tr')[1:]:
-            # Find the cell with the class 'hauptlink no-border-links' which contains the team name
             team_cell = row.find('td', class_='hauptlink no-border-links')
-            # Check if the cell is found
             if team_cell:
-                # Find the anchor tag within this cell
                 link_tag = team_cell.find('a', href=True)
-                # Extract the team name from the text of the anchor tag
                 if link_tag:
                     team_url = base_url + link_tag['href']
                     team_urls.append(team_url)
@@ -50,7 +46,6 @@ def get_player_urls(team_urls):
                     count = 0
             if player_cell:
                 link_tag = player_cell.find('a', href=True)
-                # Extract the team name from the text of the anchor tag
                 if link_tag:
                     player_url = base_url + link_tag['href']
                     if player_url not in players_urls:
@@ -64,12 +59,10 @@ print(len(team_urls))
 players_urls = get_player_urls(team_urls)
 print(players_urls)
 print(len(players_urls))
-# Create a DataFrame from the player URLs
+
 df = pd.DataFrame(players_urls, columns=['Player URL'])
 
-# Display the DataFrame
 print(df)
 
-# Save the DataFrame to a CSV file
 df.to_csv('players_urls.csv', index=False)
 
